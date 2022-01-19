@@ -43,12 +43,12 @@
       <fWeaponDamageMult value="0.500000" />
       <fDeformationDamageMult value="3.000000" />
       <fEngineDamageMult value="1.500000" />
-      <fPetrolTankVolume value="150.000000" />
+      <fPetrolTankVolume value="250.000000" />
       <fOilVolume value="12.000000" />
       <fSeatOffsetDistX value="-0.150000" />
       <fSeatOffsetDistY value="0.000000" />
       <fSeatOffsetDistZ value="0.000000" />
-      <nMonetaryValue value="52000" />
+      <nMonetaryValue value="1140500" />
       <strModelFlags>2044000</strModelFlags>
       <strHandlingFlags>401000</strHandlingFlags>
       <strDamageFlags>20</strDamageFlags>

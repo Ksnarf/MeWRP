@@ -24,8 +24,9 @@ shared = {
 }
 
 keyboard = {
+    modifyKey = 132,
     stageChange = 85, -- E
-    guiKey = 167, -- F6
+    guiKey = 199, -- P
     takedown = 83, -- =
     siren = {
         tone_one = 157, -- 1
@@ -39,7 +40,7 @@ keyboard = {
     },
     warning = 246, -- Y
     secondary = 303, -- U
-    primary = 7, -- ??
+    primary = 7, -- ?? 
 }
 
 controller = {

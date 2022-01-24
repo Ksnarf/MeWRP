@@ -24,7 +24,7 @@ shared = {
 }
 
 keyboard = {
-    modifyKey = 132,
+    modifyKey = 132, --LCtrl
     stageChange = 85, -- E
     guiKey = 199, -- P
     takedown = 83, -- =
@@ -40,7 +40,7 @@ keyboard = {
     },
     warning = 246, -- Y
     secondary = 303, -- U
-    primary = 7, -- ?? 
+    primary = 7, -- ??
 }
 
 controller = {

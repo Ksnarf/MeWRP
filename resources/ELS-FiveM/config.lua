@@ -24,9 +24,8 @@ shared = {
 }
 
 keyboard = {
-    modifyKey = 132, --LCtrl
     stageChange = 85, -- E
-    guiKey = 199, -- P
+    guiKey = 167, -- F6
     takedown = 83, -- =
     siren = {
         tone_one = 157, -- 1

@@ -5,7 +5,7 @@ RegisterCommand('car', function(source, args)
             args = ('Vehicle not recognised: ' .. vehicleName)
 
         }}
-        return 
+        return
     end
 
     RequestModel(vehicleName)
@@ -26,19 +26,19 @@ RegisterCommand('car', function(source, args)
     SetModelAsNoLongerNeeded(vehicleName)
 
     TriggerEvent('chat:addMessage', {
-        args = {'You have spawned a ' .. vehicleName .. '.'}  
+        args = {'You have spawned a ' .. vehicleName .. '.'}
     }}
-end, false) 
+end, false)
 
 RegisterCommand('dv', function()
     local playerPed = PlayerPedId()
 
     local vehicle = GetVehiclePedIsIn(playerPed, false)
-    
+
     DeleteEntity(vehicle)
 end, false)
 
-RegisterCommand('dv', function()
+RegisterCommand('tpveh', function()
     local playerPed = PlayerPedId()
 
     local vehicle = GetVehiclePedIsIn(playerPed, false)
@@ -46,9 +46,3 @@ RegisterCommand('dv', function()
     SetPedIntoVehicle(playerPed, vehicle, -1)
 
 end, false)
-
-
-
-
-
-

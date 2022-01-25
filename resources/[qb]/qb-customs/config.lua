@@ -1,6 +1,6 @@
 maxVehiclePerformanceUpgrades = 0 -- Set to 0 to have all the upgrades
 vehicleBaseRepairCost = 600
-vehicleRepairCostMultiplier = 1
+vehicleRepairCostMultiplier = 1.2
 moneyType = 'bank'
 
 -- Location Configs
@@ -9,6 +9,8 @@ moneyType = 'bank'
 bennyGarages = {
     [1] = {coords = vector4(-211.55, -1324.55, 30.90, 319.73135375977), blip = true, useJob = false, job = {"mechanic", "police"}},
     [2] = {coords = vector4(109.89, 6627.07, 31.78, 221.7938), blip = true, useJob = true, job = {"mechanic"}}
+--Mosley garage
+    [3] = {coords = vector4(-8.56, -1667.66, 29.48, 78.94), blip = true useJob = false}
 }
 
 --[[ bennyLocations = {
@@ -97,7 +99,7 @@ vehicleTyreSmokeOptions = {
         r = 254,
         g = 254,
         b = 254
-    }, 
+    },
     {
         name = "Black Smoke",
         r = 1,
@@ -237,7 +239,7 @@ vehicleNeonOptions = {
 -- MAIN COMPONENTS
 
 vehicleCustomisation = {
-    {category = "Spoiler", id = 0}, 
+    {category = "Spoiler", id = 0},
     {category = "Front Bumper", id = 1},
     {category = "Rear Bumper", id = 2},
     {category = "Side Skirt", id = 3},
@@ -276,8 +278,8 @@ vehicleCustomisation = {
     {category = "Fuel Tank", id = 45},
     {category = "Window", id = 46},
     {category = "Livery", id = 48},
-    {category = "Horns", id = 14, 
-        
+    {category = "Horns", id = 14,
+
         hornNames = {
             {name = "Truck Horn", id = 0},
             {name = "Cop Horn", id = 1},
@@ -416,7 +418,7 @@ vehicleResprayOptions = {
             {name = "Ice White", id = 111},
             {name = "Frost White", id = 112}
         }
-    }, 
+    },
     {category = "Metallic", id = 1,
         colours = {{name = "Black", id = 0},
             {name = "Carbon Black", id = 147},

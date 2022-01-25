@@ -68,7 +68,7 @@ QB.Doors = {
 	},
 	-- First Pacific Door opened with lockpick
 	{
-		objName = 'hei_v_ilev_bk_gate_pris',			
+		objName = 'hei_v_ilev_bk_gate_pris',
 		objCoords  = vector3(257.41, 220.25, 106.4),
 		textCoords = vector3(257.41, 220.25, 106.4),
 		authorizedJobs = { 'police' },
@@ -91,7 +91,7 @@ QB.Doors = {
 		pickable = true,
 		distance = 1.5,
 		size = 2
-	},	
+	},
 	-- Fleeca Door opened with lockpick
 	{
 		objName = 'v_ilev_gb_vaubar',
@@ -152,7 +152,7 @@ QB.Doors = {
 		distance = 1.5,
 		size = 2
 	},
-	
+
 	-- Prison Door 1
 	{
 		objName = 'prop_gate_prison_01',
@@ -165,7 +165,7 @@ QB.Doors = {
 		distance = 13,
 		size = 2
 	},
-	-- Prison Door 2	
+	-- Prison Door 2
 	{
 		objName = 'prop_gate_prison_01',
 		objCoords  = vector3(1818.5, 2604.8, 44.6),
@@ -177,7 +177,7 @@ QB.Doors = {
 		distance = 13,
 		size = 2
 	},
-	-- Prison Door 3	
+	-- Prison Door 3
 	{
 		objName = 'prop_gate_prison_01',
 		objCoords = vector3(1799.237, 2616.303, 44.6),
@@ -251,7 +251,7 @@ QB.Doors = {
 	{
 		objName = 'v_ilev_arm_secdoor',
 		objYaw = -90.0,
-		objCoords  = vector3(452.6, -982.7, 30.6), 
+		objCoords  = vector3(452.6, -982.7, 30.6),
 		textCoords = vector3(452.95, -982.16, 30.99),
 		authorizedJobs = { 'police' },
 		locking = false,
@@ -545,12 +545,12 @@ QB.Doors = {
 			{
 				objName = 'v_ilev_ph_gendoor002',
 				objYaw = -135.0,
-				objCoords = vector3(-436.5157, 6007.844, 28.13839),			
+				objCoords = vector3(-436.5157, 6007.844, 28.13839),
 			},
 			{
 				objName = 'v_ilev_ph_gendoor002',
 				objYaw = 45.0,
-				objCoords = vector3(-434.6776, 6009.681, 28.13839)			
+				objCoords = vector3(-434.6776, 6009.681, 28.13839)
 			}
 		}
 	},
@@ -558,7 +558,7 @@ QB.Doors = {
 	{
 		objName = 'v_ilev_rc_door2',
 		objYaw = 135.0,
-		objCoords  = vector3(-450.9664, 6006.086, 31.99004),		
+		objCoords  = vector3(-450.9664, 6006.086, 31.99004),
 		textCoords = vector3(-451.38, 6006.55, 31.84),
 		authorizedJobs = { 'police' },
 		locking = false,
@@ -570,7 +570,7 @@ QB.Doors = {
 	{
 		objName = 'v_ilev_rc_door2',
 		objYaw = -45.0,
-		objCoords  = vector3(-447.2363, 6002.317, 31.84003),		
+		objCoords  = vector3(-447.2363, 6002.317, 31.84003),
 		textCoords = vector3(-446.77, 6001.84, 31.68),
 		authorizedJobs = { 'police' },
 		locking = false,
@@ -582,7 +582,7 @@ QB.Doors = {
 	{
 		objName = 'v_ilev_rc_door2',
 		objYaw = -45.0,
-		objCoords  = vector3(-450.7136, 6016.371, 31.86523),				
+		objCoords  = vector3(-450.7136, 6016.371, 31.86523),
 		textCoords = vector3(-450.15, 6015.96, 31.71),
 		authorizedJobs = { 'police' },
 		locking = false,
@@ -594,7 +594,7 @@ QB.Doors = {
 	{
 		objName = 'v_ilev_rc_door2',
 		objYaw = 45.0,
-		objCoords  = vector3(-454.0435, 6010.243, 31.86106),						
+		objCoords  = vector3(-454.0435, 6010.243, 31.86106),
 		textCoords = vector3(-453.56, 6010.73, 31.71),
 		authorizedJobs = { 'police' },
 		locking = false,
@@ -606,8 +606,8 @@ QB.Doors = {
 	{
 		objName = 'v_ilev_arm_secdoor',
 		objYaw = -135.0,
-		objCoords  = vector3(-439.1576, 5998.157, 31.86815),						
-		textCoords = vector3(-438.64, 5998.51, 31.71), 
+		objCoords  = vector3(-439.1576, 5998.157, 31.86815),
+		textCoords = vector3(-438.64, 5998.51, 31.71),
 		authorizedJobs = { 'police' },
 		locking = false,
 		locked = true,
@@ -618,7 +618,7 @@ QB.Doors = {
 	{
 		objName = 'v_ilev_arm_secdoor',
 		objYaw = 45.0,
-		objCoords  = vector3(-436.6276, 6002.548, 28.14062),							
+		objCoords  = vector3(-436.6276, 6002.548, 28.14062),
 		textCoords = vector3(-437.09, 6002.100, 27.98),
 		authorizedJobs = { 'police' },
 		locking = false,
@@ -630,7 +630,7 @@ QB.Doors = {
 	{
 		objName = 'v_ilev_ph_cellgate1',
 		objYaw = 45.0,
-		objCoords  = vector3(-438.228, 6006.167, 28.13558),							
+		objCoords  = vector3(-438.228, 6006.167, 28.13558),
 		textCoords = vector3(-438.610, 6005.64, 27.98),
 		authorizedJobs = { 'police' },
 		locking = false,
@@ -642,7 +642,7 @@ QB.Doors = {
 	{
 		objName = 'v_ilev_ph_cellgate1',
 		objYaw = 45.0,
-		objCoords  = vector3(-442.1082, 6010.052, 28.13558),							
+		objCoords  = vector3(-442.1082, 6010.052, 28.13558),
 		textCoords = vector3(-442.55, 6009.61, 27.98),
 		authorizedJobs = { 'police' },
 		locking = false,
@@ -654,7 +654,7 @@ QB.Doors = {
 	{
 		objName = 'v_ilev_ph_cellgate1',
 		objYaw = 45.0,
-		objCoords  = vector3(-444.3682, 6012.223, 28.13558),								
+		objCoords  = vector3(-444.3682, 6012.223, 28.13558),
 		textCoords = vector3(-444.77, 6011.74, 27.98),
 		authorizedJobs = { 'police' },
 		locking = false,
@@ -674,13 +674,13 @@ QB.Doors = {
 			{
 				objName = 'v_ilev_rc_door2',
 				objYaw = 225.0,
-				objCoords  = vector3(-441.0185, 6012.795, 31.86523),			
+				objCoords  = vector3(-441.0185, 6012.795, 31.86523),
 			},
 
 			{
 				objName = 'v_ilev_rc_door2',
 				objYaw = 45.0,
-				objCoords  = vector3(-442.8578, 6010.958, 31.86523)			
+				objCoords  = vector3(-442.8578, 6010.958, 31.86523)
 			}
 		}
 	},
@@ -696,13 +696,13 @@ QB.Doors = {
 			{
 				objName = 'v_ilev_rc_door2',
 				objYaw = 135.0,
-				objCoords = vector3(-447.7283, 6006.702, 31.86523),				
+				objCoords = vector3(-447.7283, 6006.702, 31.86523),
 			},
 
 			{
 				objName = 'v_ilev_rc_door2',
 				objYaw = -45.0,
-				objCoords = vector3(-449.5656, 6008.538, 31.86523)		
+				objCoords = vector3(-449.5656, 6008.538, 31.86523)
 			}
 		}
 	},
@@ -969,7 +969,7 @@ QB.Doors = {
 			{
 				objName = 'prison_prop_door1',
 				objYaw = 182.0,
-				objCoords = vector3(1785, 2610, 46),	
+				objCoords = vector3(1785, 2610, 46),
 			},
 
 			{
@@ -990,7 +990,7 @@ QB.Doors = {
 			{
 				objName = 'prison_prop_door2',
 				objYaw = 1.5,
-				objCoords = vector3(1781, 2602, 51),	
+				objCoords = vector3(1781, 2602, 51),
 			},
 
 			{
@@ -1047,16 +1047,16 @@ QB.Doors = {
 			{
 				objName = 'prison_prop_door1',
 				objYaw = 272.0,
-				objCoords = vector3(1791.1140136719, 2592.50390625, 46.3132473297119),		
+				objCoords = vector3(1791.1140136719, 2592.50390625, 46.3132473297119),
 			},
 
 			{
 				objName = 'prison_prop_door1a',
 				objYaw = 90.0,
-				objCoords = vector3(1791, 2595, 46),	
+				objCoords = vector3(1791, 2595, 46),
 			}
 		}
-	},	
+	},
 	-- To DoctorRoom
 	{
 		objName = 'v_ilev_ph_gendoor002',
@@ -1107,13 +1107,13 @@ QB.Doors = {
 			{
 				objName = 'prison_prop_door2',
 				objYaw = 269.5,
-				objCoords = vector3(1782, 2551, 50),		
+				objCoords = vector3(1782, 2551, 50),
 			},
 
 			{
 				objName = 'prison_prop_door2',
 				objYaw = 90.0,
-				objCoords = vector3(1782, 2553, 50),	
+				objCoords = vector3(1782, 2553, 50),
 			}
 		}
 	},
@@ -1169,7 +1169,7 @@ QB.Doors = {
 		size = 2
 	},
 	-- Luxury Cars
-	-- Entrance Doors 
+	-- Entrance Doors
 	{
 		textCoords = vector3(-803.0223, -223.8222, 37.87975),
 		authorizedJobs = { 'cardealer', 'police' },
@@ -1187,11 +1187,11 @@ QB.Doors = {
 			{
 				objName = 'prop_doorluxyry2',
 				objYaw = -60.0,
-				objCoords = vector3(-801.9622, -224.5203, 37.87975)			
+				objCoords = vector3(-801.9622, -224.5203, 37.87975)
 			}
 		}
 	},
-	-- Side Entrance Doors 
+	-- Side Entrance Doors
 	{
 		textCoords = vector3(-777.1855, -244.0013, 37.333889),
 		authorizedJobs = { 'cardealer', 'police' },
@@ -1201,7 +1201,7 @@ QB.Doors = {
 		distance = 3.5,
 		doors = {
 			{
-				objName = 'prop_doorluxyry',				
+				objName = 'prop_doorluxyry',
 				objYaw = -160.0,
 				objCoords = vector3(-778.1855, -244.3013, 37.33388)
 			},
@@ -1209,7 +1209,7 @@ QB.Doors = {
 			{
 				objName = 'prop_doorluxyry',
 				objYaw = 23.0,
-				objCoords = vector3(-776.1591, -243.5013, 37.33388)				
+				objCoords = vector3(-776.1591, -243.5013, 37.33388)
 			}
 		}
 	},
@@ -1224,12 +1224,12 @@ QB.Doors = {
 		doors = {
 			{
 				objName = 'prop_autodoor',
-				objCoords = vector3(-770.6311, -240.0069, 37.43247)    
+				objCoords = vector3(-770.6311, -240.0069, 37.43247)
 			},
 
 			{
 				objName = 'prop_autodoor',
-				objCoords = vector3(-765.6217, -237.9405, 37.43247) 		
+				objCoords = vector3(-765.6217, -237.9405, 37.43247)
 			}
 		}
 	},
@@ -1237,7 +1237,7 @@ QB.Doors = {
 	-- Front door 1
 	{
 		objName = 'apa_prop_apa_cutscene_doorb',
-		objCoords  = vector3(-21.71276, -1392.778, 29.63847),		
+		objCoords  = vector3(-21.71276, -1392.778, 29.63847),
 		textCoords = vector3(-22.31276, -1392.778, 29.63847),
 		authorizedJobs = { 'cardealer' },
 		objYaw = -180.0,
@@ -1250,7 +1250,7 @@ QB.Doors = {
 	-- Front door 2
 	{
 		objName = 'apa_prop_apa_cutscene_doorb',
-		objCoords  = vector3(-32.67987, -1392.064, 29.63847),		
+		objCoords  = vector3(-32.67987, -1392.064, 29.63847),
 		textCoords = vector3(-32.10987, -1392.064, 29.63847),
 		authorizedJobs = { 'cardealer' },
 		objYaw = 0.0,
@@ -1263,7 +1263,7 @@ QB.Doors = {
 	-- Door to cellar
 	{
 		objName = 'apa_prop_apa_cutscene_doorb',
-		objCoords  = vector3(-24.22668, -1403.067, 29.63847),				
+		objCoords  = vector3(-24.22668, -1403.067, 29.63847),
 		textCoords = vector3(-24.22668, -1402.537, 29.63847),
 		authorizedJobs = { 'cardealer' },
 		objYaw = 90.0,
@@ -1276,7 +1276,7 @@ QB.Doors = {
 	-- Back door
 	{
 		objName = 'apa_prop_apa_cutscene_doorb',
-		objCoords  = vector3(-21.27107, -1406.845, 29.63847),			
+		objCoords  = vector3(-21.27107, -1406.845, 29.63847),
 		textCoords = vector3(-21.27107, -1406.245, 29.63847),
 		authorizedJobs = { 'cardealer' },
 		objYaw = 90.0,
@@ -1289,13 +1289,25 @@ QB.Doors = {
 	-- Garage door
 	{
 		objName = 'prop_com_gar_door_01',
-		objCoords  = vector3(-21.04025, -1410.734, 30.51094),			
+		objCoords  = vector3(-21.04025, -1410.734, 30.51094),
 		textCoords = vector3(-21.04025, -1410.734, 30.51094),
 		authorizedJobs = { 'cardealer' },
 		locking = false,
 		locked = true,
 		pickable = false,
 		distance = 15.0,
+		size = 2
+	},
+	--Mosley Garage Main Door Left
+	{
+		objName = 'prop 2972674',
+		objCoords  = vector3(-42.62, -1661.74, 29.48),			
+		textCoords = vector3(-42.62, -1661.74, 29.48),
+		objYaw = 90.0,
+		locking = true,
+		locked = false,
+		pickable = false,
+		distance = 2.0,
 		size = 2
 	},
 }

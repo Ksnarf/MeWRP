@@ -71,7 +71,7 @@ local function calculateNewFinance(paymentAmount, vehData)
 end
 
 local function GeneratePlate()
-    local plate = QBCore.Shared.RandomInt(1) .. QBCore.Shared.RandomStr(2) .. QBCore.Shared.RandomInt(3) .. QBCore.Shared.RandomStr(2)
+    local plate = QBCore.Shared.RandomStr(3) .. QBCore.Shared.RandomInt(3)
     local result = MySQL.Sync.fetchScalar('SELECT plate FROM player_vehicles WHERE plate = ?', {plate})
     if result then
         return GeneratePlate()

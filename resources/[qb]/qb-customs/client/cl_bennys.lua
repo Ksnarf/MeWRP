@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+
+@Ksnarf
+qbcore-framework
+/
+qb-customs
+Public
+Code
+Issues
+1
+Pull requests
+2
+Actions
+Projects
+Wiki
+Security
+Insights
+qb-customs/client/cl_bennys.lua
+@RestrictedNova
+RestrictedNova Update cl_bennys.lua
+Latest commit c1e1f07 on Nov 30, 2021
+ History
+ 9 contributors
+@GhzGarage@pushkart2@HellraiserTwo@BerkieBb@PhilsBadMan@RestrictedNova@ChrisLenga@darknight2590@evanillaa
+840 lines (675 sloc)  24.7 KB
+
 local QBCore = exports['qb-core']:GetCoreObject()
 
 local isPlyInBennys = false

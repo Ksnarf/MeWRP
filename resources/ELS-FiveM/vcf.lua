@@ -23,5 +23,7 @@ vcf_files = {
 	"policeold1.xml",
 	"policeold2.xml",
 	"UNMDUR.xml",
-	"21f150k9.xml"
+	"21f150k9.xml",
+	"JEEP20.xml",
+	"21yukadmin.xml"
 }

@@ -21,7 +21,7 @@ vcf_files = {
 	"hwaycar10.xml",
 	"tflatbed4.xml",
 	"policeold1.xml",
-	"policeold2.xml"
-	"UNMDUR.xml"
+	"policeold2.xml",
+	"UNMDUR.xml",
 	"21f150k9.xml"
 }

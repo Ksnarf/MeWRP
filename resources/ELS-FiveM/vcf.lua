@@ -25,5 +25,6 @@ vcf_files = {
 	"UNMDUR.xml",
 	"21f150k9.xml",
 	"JEEP20.xml",
-	"21yukadmin.xml"
+	"21yukadmin.xml",
+	"dsflatbed.xml"
 }

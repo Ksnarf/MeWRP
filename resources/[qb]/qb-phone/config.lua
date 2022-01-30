@@ -103,16 +103,6 @@ Config.PhoneApplications = {
         slot = 9,
         Alerts = 0,
     },
-    ["racing"] = {
-        app = "racing",
-        color = "#353b48",
-        icon = "fas fa-flag-checkered",
-        tooltipText = "Racing",
-        job = false,
-        blockedjobs = {},
-        slot = 10,
-        Alerts = 0,
-    },
     ["houses"] = {
         app = "houses",
         color = "#27ae60",

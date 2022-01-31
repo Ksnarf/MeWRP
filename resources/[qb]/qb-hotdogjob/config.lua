@@ -74,7 +74,7 @@ Config.Stock = {
         }
     },
     ["common"] = {
-        Current = 0,
+        Current = 5,
         Max = {
             [1] = 15,
             [2] = 30,

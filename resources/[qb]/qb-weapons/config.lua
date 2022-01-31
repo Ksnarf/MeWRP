@@ -41,7 +41,7 @@ Config.DurabilityMultiplier = {
 	-- ['weapon_stungun'] 				 = 0.15,
     -- ['weapon_stungun_mp'] 				 = 0.15,
 	['weapon_pistol50'] 			 = 0.15,
-	['weapon_snspistol'] 			 = 0.15,
+	['weapon_snspistol'] 			 = 0.30,
 	['weapon_heavypistol'] 			 = 0.15,
 	['weapon_vintagepistol'] 		 = 0.15,
 	['weapon_flaregun'] 			 = 0.15,
@@ -49,7 +49,7 @@ Config.DurabilityMultiplier = {
 	['weapon_revolver'] 			 = 0.15,
 	['weapon_revolver_mk2'] 		 = 0.15,
 	['weapon_doubleaction'] 		 = 0.15,
-	['weapon_snspistol_mk2'] 		 = 0.15,
+	['weapon_snspistol_mk2'] 		 = 0.50,
 	['weapon_raypistol'] 			 = 0.15,
 	['weapon_ceramicpistol'] 		 = 0.15,
 	['weapon_navyrevolver'] 		 = 0.15,
@@ -92,7 +92,7 @@ Config.DurabilityMultiplier = {
     ['weapon_heavyrifle']           = 0.15,
 
 	-- Light Machine Guns
-	['weapon_mg'] 				    = 0.15, 
+	['weapon_mg'] 				    = 0.15,
 	['weapon_combatmg'] 			= 0.15,
 	['weapon_gusenberg'] 			= 0.15,
 	['weapon_combatmg_mk2'] 		= 0.15,
@@ -139,17 +139,17 @@ Config.DurabilityMultiplier = {
 Config.WeaponRepairPoints = {
     [1] = {
         coords = vector3(964.02, -1267.41, 34.97),
-        IsRepairing = false,
+        IsRepairing = true,
         RepairingData = {},
     }
 }
 
 Config.WeaponRepairCosts = {
-    ["pistol"] = 1000,
-    ["smg"] = 3000,
-    ["mg"] = 4000,
-    ["rifle"] = 5000,
-    ["sniper"] = 7000,
+    ["pistol"] = 1500,
+    ["smg"] = 4000,
+    ["mg"] = 5500,
+    ["rifle"] = 7000,
+    ["sniper"] = 11500,
 }
 
 WeaponAttachments = {

@@ -122,19 +122,19 @@
         <Probabilities>
           <Item>
             <Name>Standard White</Name>
-            <Value value="25" />
-          </Item>
-          <Item>
-            <Name>White Plate 2</Name>
-            <Value value="50" />
-          </Item>
-          <Item>
-            <Name>Blue Plate</Name>
             <Value value="10" />
           </Item>
           <Item>
+            <Name>White Plate 2</Name>
+            <Value value="5" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="75" />
+          </Item>
+          <Item>
             <Name>Yellow Plate</Name>
-            <Value value="15" />
+            <Value value="10" />
           </Item>
         </Probabilities>
       </plateProbabilities>

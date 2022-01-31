@@ -4018,6 +4018,7 @@ QBShared.Vehicles = {
 		['hash'] = `warrener2`,
 		['shop'] = 'pdm',
 	},
+	--Addons
 	['86K30'] = {
 		['name'] = '1986 Chevy Dually',
 		['brand'] = 'Chevy',

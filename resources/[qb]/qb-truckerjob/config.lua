@@ -101,4 +101,5 @@ Config.Locations = {
 
 Config.Vehicles = {
     ["rumpo"] = "Dumbo Delivery",
+    ["mule3"] = "Box Truck"
 }

@@ -4018,4 +4018,14 @@ QBShared.Vehicles = {
 		['hash'] = `warrener2`,
 		['shop'] = 'pdm',
 	},
+	['86K30'] = {
+		['name'] = '1986 Chevy Dually',
+		['brand'] = 'Chevy',
+		['model'] = 'K Series Dually',
+		['price'] = 25,500
+		['category'] = 'offroad',
+		['hash'] = `chevyK30`,
+		['shop'] = 'pdm',
+  }
+
 }

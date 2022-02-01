@@ -4,15 +4,15 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>86K30</handlingName>
-      <fMass value="2400" />
+      <fMass value="2850" />
       <fInitialDragCoeff value="2" />
       <fPercentSubmerged value="85" />
       <vecCentreOfMassOffset x="0" y="0" z="-0.1" />
       <vecInertiaMultiplier x="1.6" y="1" z="1" />
       <fDriveBiasFront value="0.25" />
       <nInitialDriveGears value="3" />
-      <fInitialDriveForce value="0.22" />
-      <fDriveInertia value="1.7" />
+      <fInitialDriveForce value="0.20" />
+      <fDriveInertia value="1.8" />
       <fClutchChangeRateScaleUpShift value="1.2" />
       <fClutchChangeRateScaleDownShift value="1.0" />
       <fInitialDriveMaxFlatVel value="100" />
@@ -31,7 +31,7 @@
       <fSuspensionForce value="3" />
       <fSuspensionCompDamp value="1.9" />
       <fSuspensionReboundDamp value="0.9" />
-      <fSuspensionUpperLimit value="0.16" />
+      <fSuspensionUpperLimit value="0.17" />
       <fSuspensionLowerLimit value="-0.14" />
       <fSuspensionRaise value="0" />
       <fSuspensionBiasFront value="0.54" />

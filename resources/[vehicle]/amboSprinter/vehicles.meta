@@ -130,11 +130,12 @@
         <Item>VAN_BOXVILLE_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-  </InitDatas>
+</InitDatas>
+
   <txdRelationships>
     <Item>
       <parent>vehicles_van_interior</parent>
-      <child>ambosprinter</child>
+      <child>ambulance</child>
     </Item>
-  </txdRelationships>
+    </txdRelationships>
 </CVehicleModelInfo__InitDataList>

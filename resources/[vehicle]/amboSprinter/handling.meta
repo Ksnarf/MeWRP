@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>ambosprinter</handlingName>
+      <handlingName>ambospr</handlingName>
       <fMass value="2500.000000" />
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="80.000000" />

@@ -4,11 +4,11 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>ambosprinter</modelName>
-      <txdName>ambosprinter</txdName>
-      <handlingId>ambosprint</handlingId>
-      <gameName>ambosprinter</gameName>
-      <vehicleMakeName>HVY</vehicleMakeName>
+      <modelName>ambospr</modelName>
+      <txdName>ambospr</txdName>
+      <handlingId>ambospr</handlingId>
+      <gameName>ambospr</gameName>
+      <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>

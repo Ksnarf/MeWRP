@@ -1,7 +1,7 @@
 Config = {}
 
 -- What should the price of jerry cans be?
-Config.JerryCanCost = 100
+Config.JerryCanCost = 125
 Config.RefillCost = 50 -- If it is missing half of it capacity, this amount will be divided in half, and so on.
 
 -- Fuel decor - No need to change this, just leave it.
@@ -15,7 +15,7 @@ Config.ShowNearestGasStationOnly = true
 Config.ShowAllGasStations = false
 
 -- Modify the fuel-cost here, using a multiplier value. Setting the value to 2.0 would cause a doubled increase.
-Config.CostMultiplier = 1.0
+Config.CostMultiplier = 1.6
 
 -- Configure the strings as you wish here.
 Config.Strings = {
@@ -55,21 +55,21 @@ Config.RemoveHUDForBlacklistedVehicle = true
 -- Class multipliers. If you want SUVs to use less fuel, you can change it to anything under 1.0, and vise versa.
 Config.Classes = {
 	[0] = 1.0, -- Compacts
-	[1] = 1.0, -- Sedans
-	[2] = 1.0, -- SUVs
+	[1] = 1.1, -- Sedans
+	[2] = 1.3, -- SUVs
 	[3] = 1.0, -- Coupes
-	[4] = 1.0, -- Muscle
-	[5] = 1.0, -- Sports Classics
-	[6] = 1.0, -- Sports
-	[7] = 1.0, -- Super
-	[8] = 1.0, -- Motorcycles
-	[9] = 1.0, -- Off-road
-	[10] = 1.0, -- Industrial
+	[4] = 1.4, -- Muscle
+	[5] = 1.6, -- Sports Classics
+	[6] = 1.8, -- Sports
+	[7] = 2.5, -- Super
+	[8] = 0.2, -- Motorcycles
+	[9] = 1.4, -- Off-road
+	[10] = 2.1, -- Industrial
 	[11] = 1.0, -- Utility
-	[12] = 1.0, -- Vans
+	[12] = 1.7, -- Vans
 	[13] = 0.0, -- Cycles
 	[14] = 1.0, -- Boats
-	[15] = 1.0, -- Helicopters
+	[15] = 0.3, -- Helicopters
 	[16] = 1.0, -- Planes
 	[17] = 1.0, -- Service
 	[18] = 1.0, -- Emergency

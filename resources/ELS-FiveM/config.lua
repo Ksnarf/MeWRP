@@ -40,16 +40,14 @@ keyboard = {
     },
     warning = 246, -- Y
     secondary = 303, -- U
-    primary = 29, -- b 
+    primary = 29, -- b
 }
 
 controller = {
     modifyKey = 73,
-    stageChange = 80,
-    takedown = 74,
+    stageChange = 174,
+    takedown = 172,
     siren = {
         tone_one = 173,
-        tone_two = 85,
-        tone_three = 172,
     },
 }

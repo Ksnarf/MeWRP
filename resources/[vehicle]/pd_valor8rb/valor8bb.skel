@@ -1,0 +1,1101 @@
+Version 165 30
+{
+	DataCRC 1103571412
+	NumBones 128
+	Bone chassis 0
+	{
+		MirrorBoneId 0
+		Flags ROT_X ROT_Y ROT_Z TRANS_X TRANS_Y TRANS_Z
+		RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+		LocalOffset 0.00000000 0.00000000 0.00000000
+		Scale 1.00000000 1.00000000 1.00000000
+		Children 68
+		{
+			Bone extra_1 8874
+			{
+				MirrorBoneId 8874
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.00001013 0.06905480 1.24869500
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 4
+				{
+					Bone siren1 24999
+					{
+						MirrorBoneId 24999
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.45518550 -0.13575990 0.04345989
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone siren2 25000
+					{
+						MirrorBoneId 25000
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.24169980 -0.13568990 0.04352903
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone siren3 25001
+					{
+						MirrorBoneId 25001
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.44873690 -0.13568750 0.04346013
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone siren4 25002
+					{
+						MirrorBoneId 25002
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.25604290 -0.13578210 0.04343414
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone extra_2 8875
+			{
+				MirrorBoneId 8875
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.09346148 0.13732720 -0.03818935
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 2
+				{
+					Bone siren5 25003
+					{
+						MirrorBoneId 25003
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.14201170 1.70821600 0.05835322
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone siren6 25004
+					{
+						MirrorBoneId 25004
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.04383548 1.70821600 0.05835322
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone extra_3 8876
+			{
+				MirrorBoneId 8876
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.09167301 0.12284580 -0.05126834
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 2
+				{
+					Bone siren7 25005
+					{
+						MirrorBoneId 25005
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.03429930 1.13732800 0.81915130
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone siren8 25006
+					{
+						MirrorBoneId 25006
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.15314430 1.13732800 0.81915130
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone extra_4 8877
+			{
+				MirrorBoneId 8877
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 2
+				{
+					Bone siren13 5717
+					{
+						MirrorBoneId 5717
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.20271790 1.97872600 0.04448061
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone siren14 5718
+					{
+						MirrorBoneId 5718
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000001 0.00000000 1.00000000
+						LocalOffset 0.19809590 1.97872300 0.04447973
+						Scale 1.00000000 1.00000000 1.00001500
+					}
+				}
+			}
+			Bone extra_5 8878
+			{
+				MirrorBoneId 8878
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 1
+				{
+					Bone misc_rlights 44620
+					{
+						MirrorBoneId 44620
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.00032854 2.77588900 0.08694263
+						Scale 1.00000000 1.00000000 1.00000000
+						Children 2
+						{
+							Bone siren11 5715
+							{
+								MirrorBoneId 5715
+								Flags ROT_X ROT_Y ROT_Z
+								RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+								LocalOffset -0.20982540 -0.78954330 -0.18911810
+								Scale 1.00000000 1.00000000 0.99999240
+							}
+							Bone siren12 5716
+							{
+								MirrorBoneId 5716
+								Flags ROT_X ROT_Y ROT_Z
+								RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+								LocalOffset 0.20672660 -0.78953180 -0.18912540
+								Scale 1.00000000 1.00000000 1.00000000
+							}
+						}
+					}
+				}
+			}
+			Bone extra_6 8879
+			{
+				MirrorBoneId 8879
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone extra_7 8880
+			{
+				MirrorBoneId 8880
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone extra_9 8882
+			{
+				MirrorBoneId 8882
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion -0.02988183 0.00000000 0.00000000 0.99955780
+				LocalOffset 0.00000000 0.04042640 0.32703280
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone extra_ten 41970
+			{
+				MirrorBoneId 41970
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion -0.00330058 0.00000000 0.00000000 0.99999880
+				LocalOffset -0.09522262 0.17618540 0.75528910
+				Scale 1.00000000 0.99999240 0.99999240
+			}
+			Bone extra_11 10843
+			{
+				MirrorBoneId 10843
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00960897 0.00000000 0.00000000 0.99995800
+				LocalOffset -0.52870150 0.00537634 1.23770600
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone extra_12 10844
+			{
+				MirrorBoneId 10844
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.07426783 0.45669880 0.30077930
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 1
+				{
+					Bone scoop 1160
+					{
+						MirrorBoneId 1160
+						Flags ROT_X ROT_Y ROT_Z LIMIT_ROTATION
+						RotationQuaternion 0.00000000 -0.70710640 0.00000000 0.70710710
+						LocalOffset -0.83796480 0.77790210 0.51640470
+						Scale 1.00000000 0.99999240 1.00000000
+						Children 1
+						{
+							Bone extralight_3 51311
+							{
+								MirrorBoneId 51311
+								Flags ROT_X ROT_Y ROT_Z
+								RotationQuaternion 0.00000000 0.70710640 0.00000000 0.70710710
+								LocalOffset 0.11629140 0.03931653 -0.01584816
+								Scale 1.00000000 1.00000000 1.00000000
+							}
+						}
+					}
+				}
+			}
+			Bone misc_console 52566
+			{
+				MirrorBoneId 52566
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.04018760 -0.45889950 0.57072200
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 4
+				{
+					Bone siren20 5698
+					{
+						MirrorBoneId 5698
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.70710680 0.70710680
+						LocalOffset -0.78712030 -1.18294300 0.15924670
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone siren19 5723
+					{
+						MirrorBoneId 5723
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 -0.70710660 0.70710690
+						LocalOffset 0.86839650 -1.18292500 0.15935300
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone attach_female 52286
+					{
+						MirrorBoneId 52286
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.04082866 -2.05874300 -0.53852580
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone key_emis1 25985
+					{
+						MirrorBoneId 25985
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.02230266 -0.01286348 -0.49944540 0.86596340
+						LocalOffset 0.12135750 0.98370500 0.19447510
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone box 18616
+			{
+				MirrorBoneId 18616
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.24250210 0.59432640
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 1
+				{
+					Bone misc_rear 13857
+					{
+						MirrorBoneId 13857
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.00404485 -1.65639800 -0.15168870
+						Scale 1.00000000 1.00000000 1.00000000
+						Children 1
+						{
+							Bone cargodoor 41999
+							{
+								MirrorBoneId 41999
+								Flags ROT_X ROT_Y ROT_Z TRANS_X TRANS_Y TRANS_Z LIMIT_TRANSLATION
+								RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+								LocalOffset -0.00000010 -0.00441945 -0.09794770
+								Scale 1.00000000 1.00000000 1.00000000
+							}
+						}
+					}
+				}
+			}
+			Bone taillight_l 18400
+			{
+				MirrorBoneId 18400
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.83506200 -2.20507900 0.48028340
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone taillight_r 18438
+			{
+				MirrorBoneId 18438
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.83506200 -2.20507900 0.48028340
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone bodyshell 60113
+			{
+				MirrorBoneId 60113
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone brakelight_l 20608
+			{
+				MirrorBoneId 20608
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.82959630 -2.22357300 0.57115690
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone brakelight_r 20678
+			{
+				MirrorBoneId 20678
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.82959630 -2.22357300 0.57115690
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone indicator_lr 41644
+			{
+				MirrorBoneId 41644
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.82959630 -2.19357600 0.57115690
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone indicator_rr 40012
+			{
+				MirrorBoneId 40012
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.82959630 -2.19357600 0.57115690
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone bumper_r 22821
+			{
+				MirrorBoneId 22821
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.87244710 -2.26533700 -0.00901031
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone bonnet 42990
+			{
+				MirrorBoneId 42990
+				Flags ROT_X ROT_Y ROT_Z LIMIT_ROTATION
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 1.51186000 0.72976760
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone steeringwheel 20285
+			{
+				MirrorBoneId 20285
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion -0.13940460 0.00000000 0.00000000 0.99023950
+				LocalOffset -0.44120250 0.81024860 0.60702720
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone dials 16572
+			{
+				MirrorBoneId 16572
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone door_dside_f 60963
+			{
+				MirrorBoneId 60963
+				Flags ROT_X ROT_Y ROT_Z LIMIT_ROTATION
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.97282120 1.23207400 0.32766800
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 4
+				{
+					Bone misc_fornt 49841
+					{
+						MirrorBoneId 49841
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.00000000 0.00000000 0.00000000
+						Scale 1.00000000 1.00000000 1.00000000
+						Children 1
+						{
+							Bone siren10 5714
+							{
+								MirrorBoneId 5714
+								Flags ROT_X ROT_Y ROT_Z
+								RotationQuaternion -0.00000009 -0.00000001 0.02743905 0.99962770
+								LocalOffset -0.07989753 -0.25103430 0.41419650
+								Scale 1.00000000 1.00000000 1.00000000
+							}
+						}
+					}
+					Bone wing_lf 4218
+					{
+						MirrorBoneId 4218
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.08238536 -0.17817540 0.39759660
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone window_lf 26734
+					{
+						MirrorBoneId 26734
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.17663910 -0.65185260 0.56002500
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone handle_dside_f 49152
+					{
+						MirrorBoneId 49152
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.03594714 -0.92612420 0.16903190
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone door_dside_r 61071
+			{
+				MirrorBoneId 61071
+				Flags ROT_X ROT_Y ROT_Z LIMIT_ROTATION
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.95567040 0.07906551 0.26632770
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 5
+				{
+					Bone 2019 Tahoe Door Bars - Left 18986
+					{
+						MirrorBoneId 18986
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.95567040 -0.07906551 -0.26632770
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone door_dside_r Window Guard 15990
+					{
+						MirrorBoneId 15990
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.01715118 1.15300900 0.06134027
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone window_lr 26746
+					{
+						MirrorBoneId 26746
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.16180180 -0.39684820 0.63202030
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone window_lm 26741
+					{
+						MirrorBoneId 26741
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.16326330 -0.81262270 0.63483980
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone handle_dside_r 49132
+					{
+						MirrorBoneId 49132
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.05309796 -0.82352830 0.23037220
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone door_pside_f 35346
+			{
+				MirrorBoneId 35346
+				Flags ROT_X ROT_Y ROT_Z LIMIT_ROTATION
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.97254090 1.23204800 0.32768700
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 4
+				{
+					Bone misc_frontt 36738
+					{
+						MirrorBoneId 36738
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.00000000 0.00000000 0.00000000
+						Scale 1.00000000 1.00000000 1.00000000
+						Children 1
+						{
+							Bone siren9 25007
+							{
+								MirrorBoneId 25007
+								Flags ROT_X ROT_Y ROT_Z
+								RotationQuaternion -0.00000011 0.00000010 0.00000000 1.00000000
+								LocalOffset 0.08790407 -0.24402650 0.41506330
+								Scale 1.00000000 1.00000000 1.00000000
+							}
+						}
+					}
+					Bone wing_rf 4186
+					{
+						MirrorBoneId 4186
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.08208317 -0.17814900 0.39757760
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone window_rf 28174
+					{
+						MirrorBoneId 28174
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.17635880 -0.65182610 0.56000590
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone handle_pside_f 23407
+					{
+						MirrorBoneId 23407
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.03697622 -0.92609780 0.16901290
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone door_pside_r 35230
+			{
+				MirrorBoneId 35230
+				Flags ROT_X ROT_Y ROT_Z LIMIT_ROTATION
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.95533570 0.07907379 0.26634800
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 5
+				{
+					Bone 2019 Tahoe Door Bars - Right 62850
+					{
+						MirrorBoneId 62850
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.95533570 -0.07907379 -0.26634800
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone door_pside_r Window Guard 5942
+					{
+						MirrorBoneId 5942
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -1.92815700 1.15300100 0.06132004
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone window_rr 28186
+					{
+						MirrorBoneId 28186
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.16146720 -0.39685650 0.63200010
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone window_rm 28181
+					{
+						MirrorBoneId 28181
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.16292870 -0.81263100 0.63481950
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone handle_pside_r 23419
+					{
+						MirrorBoneId 23419
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.05418134 -0.82353660 0.23035200
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone boot 31608
+			{
+				MirrorBoneId 31608
+				Flags ROT_X ROT_Y ROT_Z LIMIT_ROTATION
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 -1.90561600 1.18974300
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 6
+				{
+					Bone misc_console 52566
+					{
+						MirrorBoneId 52566
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.04376063 1.94258900 -0.51689820
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone extra_8 8881
+					{
+						MirrorBoneId 8881
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.00000000 1.90561600 -1.18974300
+						Scale 1.00000000 1.00000000 1.00000000
+						Children 2
+						{
+							Bone siren17 5721
+							{
+								MirrorBoneId 5721
+								Flags ROT_X ROT_Y ROT_Z
+								RotationQuaternion 0.00000000 0.00000013 1.00000000 0.00000004
+								LocalOffset 0.19179340 -2.24595700 0.37817050
+								Scale 0.99999240 1.00000000 1.00000000
+							}
+							Bone siren18 5722
+							{
+								MirrorBoneId 5722
+								Flags ROT_X ROT_Y ROT_Z
+								RotationQuaternion 0.00000000 0.00000013 1.00000000 0.00000004
+								LocalOffset -0.19449160 -2.24595900 0.37817060
+								Scale 0.99999240 1.00000000 1.00000000
+							}
+						}
+					}
+					Bone misc_bkaclight 65469
+					{
+						MirrorBoneId 65469
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.00173405 -1.47464800 -0.75988600
+						Scale 1.00000000 1.00000000 1.00000000
+						Children 2
+						{
+							Bone siren15 5719
+							{
+								MirrorBoneId 5719
+								Flags ROT_X ROT_Y ROT_Z
+								RotationQuaternion 0.00000001 0.00000002 1.00000000 0.00000002
+								LocalOffset -0.25187690 1.36916200 0.57434570
+								Scale 0.99999240 1.00000000 0.99999240
+							}
+							Bone siren16 5720
+							{
+								MirrorBoneId 5720
+								Flags ROT_X ROT_Y ROT_Z
+								RotationQuaternion 0.00000001 0.00000002 1.00000000 0.00000002
+								LocalOffset 0.23722250 1.36916200 0.57434570
+								Scale 0.99999240 1.00000000 0.99999240
+							}
+						}
+					}
+					Bone platelight 5558
+					{
+						MirrorBoneId 5558
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.00000000 -0.37396870 -0.70315460
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone brakelight_m 20609
+					{
+						MirrorBoneId 20609
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.00000000 -0.25374540 -0.05090320
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone windscreen_r 56413
+					{
+						MirrorBoneId 56413
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.00000000 -0.24855700 -0.30547160
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone windscreen 39561
+			{
+				MirrorBoneId 39561
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 1.10776600 0.89783750
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone reversinglight_r 34570
+			{
+				MirrorBoneId 34570
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.81696500 -2.22642700 0.48072650
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone reversinglight_l 34500
+			{
+				MirrorBoneId 34500
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.81696500 -2.22642700 0.48072650
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone Sideglass 52459
+			{
+				MirrorBoneId 52459
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 2
+				{
+					Bone misc_c 58616
+					{
+						MirrorBoneId 58616
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.78851850 -1.60258800 0.90257450
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone misc_b 58615
+					{
+						MirrorBoneId 58615
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.78851850 -1.60258800 0.90257450
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone bumper 41618
+			{
+				MirrorBoneId 41618
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 2
+				{
+					Bone extralight_1 51309
+					{
+						MirrorBoneId 51309
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.72748880 2.46851300 0.28824620
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone extralight_2 51310
+					{
+						MirrorBoneId 51310
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset 0.72748850 2.46851300 0.28824600
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone indicator_lf 41664
+			{
+				MirrorBoneId 41664
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.74011800 2.50045800 0.21829610
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone indicator_rf 40032
+			{
+				MirrorBoneId 40032
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.74244440 2.49939400 0.21830380
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone headlight_l 10804
+			{
+				MirrorBoneId 10804
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.73060950 2.47139300 0.43023460
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone headlight_r 10842
+			{
+				MirrorBoneId 10842
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.73060950 2.47139300 0.43023460
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone suspension_lf 5577
+			{
+				MirrorBoneId 5577
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.58953950 1.82534500 -0.09043998
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone suspension_lr 5589
+			{
+				MirrorBoneId 5589
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.58953950 -1.16722200 -0.09043998
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone suspension_rf 6505
+			{
+				MirrorBoneId 6505
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.58953950 1.82534500 -0.09043998
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone suspension_rr 6517
+			{
+				MirrorBoneId 6517
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.61093260 -1.16722200 -0.09043998
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone transmission_r 17046
+			{
+				MirrorBoneId 17046
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00004597 0.18843810 -0.12915670
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone wheel_rr 26398
+			{
+				MirrorBoneId 26398
+				Flags ROT_X ROT_Y ROT_Z TRANS_X TRANS_Y TRANS_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.85077790 -1.17249000 -0.26001700
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone wheel_rf 26418
+			{
+				MirrorBoneId 26418
+				Flags ROT_X ROT_Y ROT_Z TRANS_X TRANS_Y TRANS_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.85077780 1.81960000 -0.16526960
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone wheel_lr 27902
+			{
+				MirrorBoneId 27902
+				Flags ROT_X ROT_Y ROT_Z TRANS_X TRANS_Y TRANS_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.85963510 -1.17249000 -0.26001700
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone wheel_lf 27922
+			{
+				MirrorBoneId 27922
+				Flags ROT_X ROT_Y ROT_Z TRANS_X TRANS_Y TRANS_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.85083630 1.81959900 -0.16526750
+				Scale 1.00000000 1.00000000 1.00000000
+				Children 4
+				{
+					Bone wheelmesh_lf 20247
+					{
+						MirrorBoneId 20247
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.00828016 0.00000155 -0.00000209
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone wheelmesh_lf_l1 11707
+					{
+						MirrorBoneId 11707
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.00828016 -7.56983500 -0.00000209
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone wheelmesh_lf_l2 11708
+					{
+						MirrorBoneId 11708
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.00828016 -15.37298000 -0.00000209
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+					Bone wheelmesh_lf_ng 12049
+					{
+						MirrorBoneId 12049
+						Flags ROT_X ROT_Y ROT_Z
+						RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+						LocalOffset -0.00828016 7.91405700 -0.00000209
+						Scale 1.00000000 1.00000000 1.00000000
+					}
+				}
+			}
+			Bone hub_lf 35926
+			{
+				MirrorBoneId 35926
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.78644560 1.81961900 -0.16530660
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone hub_lr 35938
+			{
+				MirrorBoneId 35938
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.82860740 -1.17246600 -0.26007000
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone hub_rf 36022
+			{
+				MirrorBoneId 36022
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.78685880 1.81961900 -0.16530660
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone hub_rr 36034
+			{
+				MirrorBoneId 36034
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.82902570 -1.17246600 -0.26007000
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone misc_m 58626
+			{
+				MirrorBoneId 58626
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone engineblock 24668
+			{
+				MirrorBoneId 24668
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone seat_dside_f 20012
+			{
+				MirrorBoneId 20012
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.44292800 0.45562620 0.32146780
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone seat_dside_r 20120
+			{
+				MirrorBoneId 20120
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.44292800 -0.48759900 0.26762840
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone seat_pside_f 59562
+			{
+				MirrorBoneId 59562
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.44292800 0.45562620 0.32146780
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone seat_pside_r 59446
+			{
+				MirrorBoneId 59446
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.44292800 -0.48759900 0.26762840
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone interiorlight 37995
+			{
+				MirrorBoneId 37995
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.53286970 1.10726800
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone dashglow 11869
+			{
+				MirrorBoneId 11869
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.45057230 1.00746400 0.66794730
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone engine 30510
+			{
+				MirrorBoneId 30510
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 1.90677700 0.42500310
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone overheat 15850
+			{
+				MirrorBoneId 15850
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.21493060 2.63210000 0.21082310
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone overheat_2 65271
+			{
+				MirrorBoneId 65271
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.21125700 2.63210000 0.21082310
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone exhaust 4944
+			{
+				MirrorBoneId 4944
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.35921410 0.12396330 0.30174620 0.87438450
+				LocalOffset 0.80534350 -2.15368000 -0.26826180
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone slipstream_l 33128
+			{
+				MirrorBoneId 33128
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset -0.65013500 -1.98884500 1.14149500
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone slipstream_r 33134
+			{
+				MirrorBoneId 33134
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.65163170 -1.98884500 1.14149500
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone bumper_f 22841
+			{
+				MirrorBoneId 22841
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.67106710 2.47348100 0.00972256
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone chassis_lowlod 37313
+			{
+				MirrorBoneId 37313
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+			Bone chassis_dummy 39433
+			{
+				MirrorBoneId 39433
+				Flags ROT_X ROT_Y ROT_Z
+				RotationQuaternion 0.00000000 0.00000000 0.00000000 1.00000000
+				LocalOffset 0.00000000 0.00000000 0.00000000
+				Scale 1.00000000 1.00000000 1.00000000
+			}
+		}
+	}
+}

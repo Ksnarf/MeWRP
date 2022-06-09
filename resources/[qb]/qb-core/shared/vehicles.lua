@@ -4019,14 +4019,14 @@ QBShared.Vehicles = {
 		['shop'] = 'pdm',
 	},
 	--Addons
-	['86K30'] = {
-		['name'] = '1986 Chevy Dually',
+	['20tahoeciv'] = {
+		['name'] = '2020 Chevy Tahoe Interceptor Edition',
 		['brand'] = 'Chevy',
-		['model'] = 'K Series Dually',
-		['price'] = 25,500
+		['model'] = '20tahoeciv',
+		['price'] = 45,500
 		['category'] = 'offroad',
-		['hash'] = `chevyK30`,
-		['shop'] = 'pdm',
+		['hash'] = `GetHashKey("20tahoeciv")`,
+		['shop'] = 'luxury',
   }
 
 }

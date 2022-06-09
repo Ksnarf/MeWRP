@@ -1,4 +1,9 @@
 vcf_files = {
+	"21f150k9"
+	"21yukadmin"
+	"ambospr"
+	"policet"
+	"UNMDUR"
 	"POLICE.xml",
 	"POLICE2.xml",
 	"POLICE3.xml",

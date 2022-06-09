@@ -5,18 +5,20 @@ games { 'gta5' }
 
 author 'TrevorBarns w/ credits see GitHub'
 description 'A siren / emergency lights controller for FiveM.'
-version '3.2.7'
+
+prerelease 'false'
+version '3.2.8'	
 compatible '3.2.2'
 
 ------------------------------
 
-experimental 'true'	-- Mute unstable version warning in server console.
+experimental 'true'		-- Mute unstable version warning in server console.
 debug_mode 'false' 		-- More verbose printing on client console.
 
 ------------------------------
 
 ui_page('/UI/html/index.html')
-
+	
 dependencies {
     'RageUI'
 }

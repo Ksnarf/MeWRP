@@ -1,14 +1,3 @@
--- THE 'I DOWNLOADED THE MASTER BRANCH NOTIFIER SYSTEM 3000'
-Citizen.CreateThread(function()
-	local experimental = GetResourceMetadata(GetCurrentResourceName(), 'experimental', 0) == 'true' 
-	AddTextEntry('lvc_wrong_branch','~y~THIS VERSION IS IN DEVELOPMENT AND IS NOT RECOMMENDED\nFOR PRODUCTION USE. IF THIS WAS A MISTAKE DOWNLOAD THE\nLATEST STABLE RELEASE AT:\n~g~github.com/TrevorBarns/luxart-vehicle-control~p~~h~/releases~h~')
-	while not experimental do
-		HUD:ShowText(0.5, 0.0, 0, '~b~LVC~w~: ~o~Warning~w~: This is the development branch (master)', 0.5)
-		HUD:ShowText(0.5, 0.04, 0, nil, nil, 'lvc_wrong_branch')
-		HUD:ShowText(0.5, 0.15, 0, '~b~TO MUTE THIS~w~: Set CONVAR "~o~experimental~w~" to "~o~true~w~" in fxmanifest.', 0.3)
-		Citizen.Wait(0)
-	end
-end)
 --[[
 ---------------------------------------------------
 LUXART VEHICLE CONTROL V3 (FOR FIVEM)
@@ -19,6 +8,19 @@ Additional Modification by TrevorBarns
 ---------------------------------------------------
 FILE: cl_lvc.lua
 PURPOSE: Core Functionality and User Input
+---------------------------------------------------
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ---------------------------------------------------
 ]]
 
@@ -562,7 +564,7 @@ Citizen.CreateThread(function()
 			if GetVehicleClass(veh) == 18 then
 				state_lights = IsVehicleSirenOn(veh)
 				--  FORCE RADIO ENABLED PER FRAME
-				if radio_masterswitch then
+				if AUDIO.radio_masterswitch then
 					SetVehicleRadioEnabled(veh, true)
 				end
 

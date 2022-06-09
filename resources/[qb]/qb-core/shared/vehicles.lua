@@ -4018,13 +4018,12 @@ QBShared.Vehicles = {
 		['hash'] = `warrener2`,
 		['shop'] = 'pdm',
 	},
-	--Addons
 	['20tahoeciv'] = {
 		['name'] = '2020 Chevy Tahoe Interceptor Edition',
 		['brand'] = 'Chevy',
 		['model'] = '20tahoeciv',
 		['price'] = 45,500
-		['category'] = 'offroad',
+		['category'] = 'SUVs',
 		['hash'] = `GetHashKey("20tahoeciv")`,
 		['shop'] = 'luxury',
   }

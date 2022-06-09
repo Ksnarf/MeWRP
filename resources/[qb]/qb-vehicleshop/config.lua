@@ -32,14 +32,14 @@ Config.Shops = {
             ['sedans'] = 'Sedans',
             ['coupes'] = 'Coupes',
             ['suvs'] = 'SUVs',
-            ['offroad'] = 'Offroad',
+            ['offroad'] = 'offroad',
             ['muscle'] = 'Muscle',
             ['compacts'] = 'Compacts',
             ['motorcycles'] = 'Motorcycles',
             ['vans'] = 'Vans',
             ['cycles'] = 'Bicycles'
-	    ['Import Standards'] = 'ImportS'
-	    ['Import Exotics'] = 'Exotics'
+	          ['Import Standards'] = 'Imports'
+	          ['Import Exotics'] = 'Exotics'
 
         },
         ['TestDriveTimeLimit'] = 0.5, -- Time in minutes until the vehicle gets deleted
@@ -49,18 +49,18 @@ Config.Shops = {
         ['ShowroomVehicles'] = {
             [1] = {
                 coords = vector4(-45.65, -1093.66, 25.44, 69.5), -- where the vehicle will spawn on display
-                defaultVehicle = 'adder', -- Default display vehicle
-                chosenVehicle = 'adder', -- Same as default but is dynamically changed when swapping vehicles
+                defaultVehicle = '20tahoeciv', -- Default display vehicle
+                chosenVehicle = '20tahoeciv', -- Same as default but is dynamically changed when swapping vehicles
             },
             [2] = {
                 coords = vector4(-48.27, -1101.86, 25.44, 294.5),
                 defaultVehicle = 'schafter2',
-                chosenVehicle = 'schafter2',
+                chosenVehicle = '20tahoeciv',
             },
             [3] = {
                 coords = vector4(-39.6, -1096.01, 25.44, 66.5),
                 defaultVehicle = 'comet2',
-                chosenVehicle = 'comet2',
+                chosenVehicle = '',
             },
             [4] = {
                 coords = vector4(-51.21, -1096.77, 25.44, 254.5),

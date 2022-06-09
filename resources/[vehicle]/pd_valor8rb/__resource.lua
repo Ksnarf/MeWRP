@@ -6,7 +6,6 @@ files {
     'carcols.meta',
     'handling.meta',
     'vehiclelayouts.meta'
-    'valor8bb.skel,
 }
 
 data_file 'HANDLING_FILE' 'handling.meta'

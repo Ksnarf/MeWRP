@@ -4022,8 +4022,8 @@ QBShared.Vehicles = {
 		['name'] = '2020 Chevy Tahoe Interceptor Edition',
 		['brand'] = 'Chevy',
 		['model'] = '20tahoeciv',
-		['price'] = 45,500
-		['category'] = 'SUVs',
+		['price'] = 45,500,
+		['category'] = 'suvs',
 		['hash'] = `GetHashKey("20tahoeciv")`,
 		['shop'] = 'luxury',
   }

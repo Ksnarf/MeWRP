@@ -23,7 +23,7 @@ QBShared.Jobs = {
             },
 			['1'] = {
                 name = 'Police Officer',
-                payment = 125Comm
+                payment = 125
             },
 			['2'] = {
                 name = 'Senior Police Officer',

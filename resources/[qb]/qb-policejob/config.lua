@@ -95,58 +95,43 @@ Config.SecurityCameras = {
 }
 
 Config.AuthorizedVehicles = {
-	-- Grade 0
+	-- Grade 0 - Cadet
 	[0] = {
-		["police2"] = "Police Car 2",
+		["valor3rb"] = "Crown Victoria",
 	},
-	-- Grade 1
+	-- Grade 1 - PO
 	[1] = {
-		["police"] = "Police Car 1",
-		["police2"] = "Police Car 2",
-		["police3"] = "Police Car 3",
-		["police4"] = "Police Car 4",
-		["policeb"] = "Police Car 5",
-		["policet"] = "Police Car 6",
-		["sheriff"] = "Sheriff Car 1",
-		["sheriff2"] = "Sheriff Car 2",
-
+		["valor3rb"] = "Crown Victoria",
 	},
-	-- Grade 2
+	-- Grade 2 - SPO
 	[2] = {
-		["police"] = "Police Car 1",
-		["police2"] = "Police Car 2",
-		["police3"] = "Police Car 3",
-		["police4"] = "Police Car 4",
-		["policeb"] = "Police Car 5",
-		["policet"] = "Police Car 6",
-		["sheriff"] = "Sheriff Car 1",
-		["sheriff2"] = "Sheriff Car 2",
+    ["valor3rb"] = "Crown Victoria",
 	},
-	-- Grade 3
+	-- Grade 3 - Cpl
 	[3] = {
-		["police"] = "Police Car 1",
-		["police2"] = "Police Car 2",
-		["police3"] = "Police Car 3",
-		["police4"] = "Police Car 4",
-		["policeb"] = "Police Car 5",
-		["policet"] = "Police Car 6",
-		["sheriff"] = "Sheriff Car 1",
-		["sheriff2"] = "Sheriff Car 2",
+    ["valor3rb"] = "Crown Victoria",
 	},
-	-- Grade 4
+	-- Grade 4 - Sgt
 	[4] = {
-		["police"] = "Police Car 1",
-		["police2"] = "Police Car 2",
-		["police3"] = "Police Car 3",
-		["police4"] = "Police Car 4",
-		["policeb"] = "Police Car 5",
-		["policet"] = "Police Car 6",
-		["sheriff"] = "Sheriff Car 1",
-		["sheriff2"] = "Sheriff Car 2",
+    ["valor3rb"] = "Crown Victoria",
+	},
+  -- Grade 5 - LT
+	[5] = {
+    ["valor3rb"] = "Crown Victoria",
+	},
+  -- Grade 6 - DChief
+	[6] = {
+    ["valor3rb"] = "Crown Victoria",
+	},
+  -- Grade 7 - Chief
+	[7] = {
+    ["valor3rb"] = "Crown Victoria",
 	}
 }
 
-Config.WhitelistedVehicles = {}
+Config.WhitelistedVehicles = {
+["valor3rb"] = "Crown Victoria",
+}
 
 Config.AmmoLabels = {
     ["AMMO_PISTOL"] = "9x19mm parabellum bullet",
@@ -380,12 +365,12 @@ Config.Items = {
 }
 
 Config.VehicleSettings = {
-    ["car1"] = { --- Model name
+    ["valor3rb"] = { --- Model name
         ["extras"] = {
             ["1"] = true, -- on/off
             ["2"] = true,
             ["3"] = true,
-            ["4"] = true,
+            ["4"] = false,
             ["5"] = true,
             ["6"] = true,
             ["7"] = true,

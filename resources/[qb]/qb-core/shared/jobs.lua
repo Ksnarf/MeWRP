@@ -8,7 +8,7 @@ QBShared.Jobs = {
 		grades = {
             ['0'] = {
                 name = 'Freelancer',
-                payment = 10
+                payment = 25
             },
         },
 	},
@@ -18,25 +18,42 @@ QBShared.Jobs = {
 		offDutyPay = false,
 		grades = {
             ['0'] = {
-                name = 'Recruit',
-                payment = 50
-            },
-			['1'] = {
-                name = 'Officer',
-                payment = 75
-            },
-			['2'] = {
-                name = 'Sergeant',
+                name = 'Cadet',
                 payment = 100
             },
+			['1'] = {
+                name = 'Police Officer',
+                payment = 125Comm
+            },
+			['2'] = {
+                name = 'Senior Police Officer',
+                payment = 150
+            },
 			['3'] = {
-                name = 'Lieutenant',
-                payment = 125
+                name = 'Corporal',
+                payment = 175
             },
 			['4'] = {
+								name = 'Sergeant',
+								payment = 250
+						}
+						,
+			['5'] = {
+								name = 'Lieutenant',
+								payment = 350
+   					},
+			['6'] = {
+								name = 'Captain',
+								payment = 500
+  					},
+			['7'] = {
+								name = 'Deputy Chief',
+								payment = 750
+						},
+			['8'] = {
                 name = 'Chief',
 				isboss = true,
-                payment = 150
+                payment = 1000
             },
         },
 	},

@@ -126,11 +126,16 @@ Config.AuthorizedVehicles = {
   -- Grade 7 - Chief
 	[7] = {
     ["valor3rb"] = "Crown Victoria",
+    ["valor5rb"] = "Ford Explorer",
+    ["valor8rb"] = "Chevy Tahoe",
+    ["valor12rb"] = "Charger",
+    ["21yukadmin"] = "Command Car",
 	}
 }
 
 Config.WhitelistedVehicles = {
 ["valor3rb"] = "Crown Victoria",
+["21yukadmin"] = "Command Car Rental",
 }
 
 Config.AmmoLabels = {

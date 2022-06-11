@@ -376,19 +376,18 @@ Config.Items = {
 Config.VehicleSettings = {
     ["valor5rb"] = { --- Model name
         ["extras"] = {
-            ["1"] = true, -- on/off
+            ["1"] = false, -- on/off
             ["2"] = true,
-            ["3"] = true,
+            ["3"] = false,
             ["4"] = false,
             ["5"] = true,
             ["6"] = true,
             ["7"] = true,
             ["8"] = true,
             ["9"] = true,
-            ["10"] = true,
-            ["11"] = true,
+            ["10"] = false,
+            ["11"] = false,
             ["12"] = true,
-            ["13"] = true,
         }
     },
     ["car2"] = {

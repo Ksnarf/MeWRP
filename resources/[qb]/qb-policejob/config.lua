@@ -97,41 +97,40 @@ Config.SecurityCameras = {
 Config.AuthorizedVehicles = {
 	-- Grade 0 - Cadet
 	[0] = {
-		["valor3rb"] = "Crown Victoria",
+		["valor5rb"] = "Crown Victoria",
 	},
 	-- Grade 1 - PO
 	[1] = {
-		["valor3rb"] = "Crown Victoria",
+		["valor5rb"] = "Crown Victoria",
 	},
 	-- Grade 2 - SPO
 	[2] = {
-    ["valor3rb"] = "Crown Victoria",
+    ["valor5rb"] = "Crown Victoria",
 	},
 	-- Grade 3 - Cpl
 	[3] = {
-    ["valor3rb"] = "Crown Victoria",
+    ["valor5rb"] = "Crown Victoria",
 	},
 	-- Grade 4 - Sgt
 	[4] = {
-    ["valor3rb"] = "Crown Victoria",
+    ["valor5rb"] = "Crown Victoria",
 	},
   -- Grade 5 - LT
 	[5] = {
-    ["valor3rb"] = "Crown Victoria",
+    ["valor5rb"] = "Crown Victoria",
 	},
   -- Grade 6 - Captain
 	[6] = {
-    ["valor3rb"] = "Crown Victoria",
+    ["valor5rb"] = "Crown Victoria",
 	},
   -- Grade 7 - DepChief
 	[7] = {
-    ["valor3rb"] = "Crown Victoria",
+    ["valor5rb"] = "Crown Victoria",
     ["21yukadmin"] = "Command Car",
 	},
   -- Grade 8 - Chief
   [8] = {
-    ["valor3rb"] = "Crown Victoria",
-    ["valor5rb"] = "Ford Explorer",
+    ["valor5rb"] = "Crown Victoria",
     ["valor8rb"] = "Chevy Tahoe",
     ["valor12rb"] = "Charger",
     ["21yukadmin"] = "Command Car",
@@ -139,7 +138,7 @@ Config.AuthorizedVehicles = {
 }
 
 Config.WhitelistedVehicles = {
-["valor3rb"] = "Crown Victoria",
+["valor5rb"] = "Crown Victoria",
 ["21yukadmin"] = "Command Car Rental",
 }
 
@@ -375,7 +374,7 @@ Config.Items = {
 }
 
 Config.VehicleSettings = {
-    ["valor3rb"] = { --- Model name
+    ["valor5rb"] = { --- Model name
         ["extras"] = {
             ["1"] = true, -- on/off
             ["2"] = true,

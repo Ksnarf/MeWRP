@@ -47,7 +47,7 @@ end)
 ------------------------------------------
 --====================================================================================\
 
-RegisterKeyMapping('mdt', 'Open Police MDT', 'keyboard', 'k')
+RegisterKeyMapping('mdt', 'Open Police MDT', 'keyboard', 'F6')
 
 RegisterCommand('mdt', function()
     if GetJobType(PlayerData.job.name) ~= nil then
@@ -264,7 +264,7 @@ RegisterNUICallback("getProfileData", function(data, cb)
     end
     local pP = nil
     local result = getProfileDataPromise(id)
-    
+
     --[[ local getProfileProperties = function(data)
         if pP then return end
         pP = promise.new()

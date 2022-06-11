@@ -32,7 +32,7 @@ end)
 -- Static Headers
 local vehHeaderMenu = {
     {
-        header = en:t('menus.vehHeader_header'),
+        header = Lang:t('menus.vehHeader_header'),
         txt = Lang:t('menus.vehHeader_txt'),
         icon = "fa-solid fa-car",
         params = {

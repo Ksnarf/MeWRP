@@ -14,7 +14,7 @@ QBShared.Jobs = {
 	},
 	['police'] = {
 		label = 'Law Enforcement',
-		defaultDuty = true,
+		defaultDuty = false,
 		offDutyPay = false,
 		grades = {
             ['0'] = {
@@ -36,8 +36,7 @@ QBShared.Jobs = {
 			['4'] = {
 								name = 'Sergeant',
 								payment = 250
-						}
-						,
+						},
 			['5'] = {
 								name = 'Lieutenant',
 								payment = 350

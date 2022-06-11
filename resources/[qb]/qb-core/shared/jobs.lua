@@ -62,26 +62,30 @@ QBShared.Jobs = {
 		offDutyPay = false,
 		grades = {
             ['0'] = {
-                name = 'Recruit',
+                name = 'Medical Student',
                 payment = 50
             },
 			['1'] = {
-                name = 'Paramedic',
+                name = 'EMT',
                 payment = 75
             },
 			['2'] = {
-                name = 'Doctor',
+                name = 'Paramedic',
                 payment = 100
             },
 			['3'] = {
-                name = 'Surgeon',
+                name = 'PA',
                 payment = 125
             },
 			['4'] = {
-                name = 'Chief',
-				isboss = true,
+                name = 'Doctor',
                 payment = 150
             },
+			['5'] = {
+								name = 'Medical Chief',
+								isboss = true,
+								payment = 150
+									},
         },
 	},
 	['realestate'] = {
@@ -89,53 +93,41 @@ QBShared.Jobs = {
 		defaultDuty = true,
 		offDutyPay = false,
 		grades = {
-            ['0'] = {
+      ['0'] = {
                 name = 'Recruit',
-                payment = 50
+                payment = 35
             },
 			['1'] = {
-                name = 'House Sales',
-                payment = 75
+                name = 'Salesperson',
+                payment = 50
             },
 			['2'] = {
-                name = 'Business Sales',
-                payment = 100
-            },
-			['3'] = {
-                name = 'Broker',
-                payment = 125
-            },
-			['4'] = {
                 name = 'Manager',
-				isboss = true,
-                payment = 150
+								isboss = true,
+                payment = 125
             },
         },
 	},
 	['taxi'] = {
 		label = 'Taxi',
 		defaultDuty = true,
-		offDutyPay = false,
+		offDutyPay = true,
 		grades = {
             ['0'] = {
-                name = 'Recruit',
-                payment = 50
+                name = '1st year',
+                payment = 25
             },
 			['1'] = {
-                name = 'Driver',
-                payment = 75
+                name = 'Limo Driver',
+                payment = 40
             },
 			['2'] = {
-                name = 'Event Driver',
+                name = 'Executive Driver',
                 payment = 100
-            },
-			['3'] = {
-                name = 'Sales',
-                payment = 125
             },
 			['4'] = {
                 name = 'Manager',
-				isboss = true,
+								isboss = true,
                 payment = 150
             },
         },

@@ -4073,6 +4073,14 @@ QBShared.Vehicles = {
 		['hash'] = `GetHashKey("cone")`,
 		['shop'] = 'pdmotorpool',
 	},
+	['valor15rb'] = {
+		['name'] = 'Dodge Ram 2500 PD ',
+		['brand'] = 'Dodge',
+		['model'] = 'valor15rb',
+		['price'] = 71544,
+		['category'] = 'govpd',
+		['hash'] = `GetHashKey("valor15rb")`,
+		['shop'] = 'pdmotorpool',
 	-- Addon Vehicles
 	['20tahoeciv'] = {
 		['name'] = '2020 Chevy Tahoe Interceptor Edition',

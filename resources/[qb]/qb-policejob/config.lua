@@ -131,16 +131,13 @@ Config.AuthorizedVehicles = {
   -- Grade 8 - Chief
   [8] = {
     ["valor5rb"] = "Crown Victoria",
-    ["valor8rb"] = "Chevy Tahoe",
-    ["valor12rb"] = "Charger",
+    ["valor8rb"] = "Marked Chevy Tahoe Interceptor",
+    ["valor12rb"] = "Marked Ford Explorer Interceptor",
     ["21yukadmin"] = "Command Car",
   }
 }
 
-Config.WhitelistedVehicles = {
-["valor5rb"] = "Crown Victoria",
-["21yukadmin"] = "Command Car Rental",
-}
+Config.WhitelistedVehicles = {}
 
 Config.AmmoLabels = { -- Labels for Weapon Ammo
     ["AMMO_PISTOL"] = "9x19mm parabellum bullet",
@@ -196,7 +193,7 @@ Config.Items = {
         [1] = {
             name = "weapon_pistol",
             price = 0,
-            amount = 15,
+            amount = 1,
             info = {
                 serie = "",
                 attachments = {

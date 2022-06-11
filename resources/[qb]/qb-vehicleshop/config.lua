@@ -12,17 +12,19 @@ Config.Shops = {
         ['Type'] = 'free-use', -- no player interaction is required to purchase a car
         ['Zone'] = {
             ['Shape'] = {--polygon that surrounds the shop
-                vector2(-56.727394104004, -1086.2325439453),
-                vector2(-60.612808227539, -1096.7795410156),
-                vector2(-58.26834487915, -1100.572265625),
-                vector2(-35.927803039551, -1109.0034179688),
-                vector2(-34.427627563477, -1108.5111083984),
-                vector2(-32.02657699585, -1101.5877685547),
-                vector2(-33.342102050781, -1101.0377197266),
-                vector2(-31.292987823486, -1095.3717041016)
+            vector2(-60.61231994629, -1096.7795410156),
+            vector2(-57.056945800782, -1087.1346435546),
+            vector2(-36.279327392578, -1093.5657958984),
+            vector2(-31.351961135864, -1095.5341796875),
+            vector2(-32.026584625244, -1101.5876464844),
+            vector2(-27.022811889648, -1103.2084960938),
+            vector2(-31.436880111694, -1116.2130126954),
+            vector2(-36.35075378418, -1114.3848876954),
+            vector2(-34.80675125122, -1109.5966796875),
+            vector2(-58.409889221192, -1100.8640136718)
             },
-            ['minZ'] = 25.0, -- min height of the shop zone
-            ['maxZ'] = 28.0, -- max height of the shop zone
+            ['minZ'] = 26.422330856324, -- min height of the shop zone
+            ['maxZ'] = 26.422441482544, -- max height of the shop zone
             ['size'] = 2.75 -- size of the vehicles zones
         },
         ['Job'] = 'none', -- Name of job or none

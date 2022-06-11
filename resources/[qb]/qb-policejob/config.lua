@@ -5,7 +5,6 @@ Config.Objects = {
     ["barier"] = {model = `prop_barrier_work06a`, freeze = true},
     ["schotten"] = {model = `prop_snow_sign_road_06g`, freeze = true},
     ["tent"] = {model = `prop_gazebo_03`, freeze = true},
-    ["light"] = {model = `prop_worklight_03b`, freeze = true},
 }
 
 Config.Locations = {
@@ -50,9 +49,10 @@ Config.Locations = {
    },
 }
 
-Config.ArmoryWhitelist = {}
+Config.ArmoryWhitelist = {} -- Citizen ID Based Armory Whitelist (With Export for Other Scripts)
 
-Config.Helicopter = "POLMAV"
+
+Config.Helicopter = "POLMAV" -- Model of the Helicopter for Helicopter Spawner
 
 Config.SecurityCameras = {
     hideradar = false,
@@ -143,7 +143,7 @@ Config.WhitelistedVehicles = {
 ["21yukadmin"] = "Command Car Rental",
 }
 
-Config.AmmoLabels = {
+Config.AmmoLabels = { -- Labels for Weapon Ammo
     ["AMMO_PISTOL"] = "9x19mm parabellum bullet",
     ["AMMO_SMG"] = "9x19mm parabellum bullet",
     ["AMMO_RIFLE"] = "7.62x39mm bullet",
@@ -197,7 +197,7 @@ Config.Items = {
         [1] = {
             name = "weapon_pistol",
             price = 0,
-            amount = 1,
+            amount = 15,
             info = {
                 serie = "",
                 attachments = {
@@ -206,7 +206,7 @@ Config.Items = {
             },
             type = "weapon",
             slot = 1,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {1, 2, 3, 4, 5, 6, 7, 8}
         },
         [2] = {
             name = "weapon_stungun",
@@ -217,7 +217,7 @@ Config.Items = {
             },
             type = "weapon",
             slot = 2,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {0, 1, 2, 3, 4, 5, 6, 7, 8}
         },
         [3] = {
             name = "weapon_pumpshotgun",
@@ -231,7 +231,7 @@ Config.Items = {
             },
             type = "weapon",
             slot = 3,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {0, 1, 2, 3, 4, 5, 6, 7, 8}
         },
         [4] = {
             name = "weapon_smg",
@@ -246,7 +246,7 @@ Config.Items = {
             },
             type = "weapon",
             slot = 4,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {4, 5, 6, 7, 8}
         },
         [5] = {
             name = "weapon_carbinerifle",
@@ -261,7 +261,7 @@ Config.Items = {
             },
             type = "weapon",
             slot = 5,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {5, 6, 7, 8}
         },
         [6] = {
             name = "weapon_nightstick",
@@ -270,7 +270,7 @@ Config.Items = {
             info = {},
             type = "weapon",
             slot = 6,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {0, 1, 2, 3, 4, 5, 6, 7, 8}
         },
         [7] = {
             name = "pistol_ammo",
@@ -279,7 +279,7 @@ Config.Items = {
             info = {},
             type = "item",
             slot = 7,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {1, 2, 3, 4, 5, 6, 7, 8}
         },
         [8] = {
             name = "smg_ammo",
@@ -288,7 +288,7 @@ Config.Items = {
             info = {},
             type = "item",
             slot = 8,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {4, 5, 6, 7, 8}
         },
         [9] = {
             name = "shotgun_ammo",
@@ -297,7 +297,7 @@ Config.Items = {
             info = {},
             type = "item",
             slot = 9,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {0, 1, 2, 3, 4, 5, 6, 7, 8}
         },
         [10] = {
             name = "rifle_ammo",
@@ -306,7 +306,7 @@ Config.Items = {
             info = {},
             type = "item",
             slot = 10,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {0, 1, 2, 3, 4, 5, 6, 7, 8}
         },
         [11] = {
             name = "handcuffs",
@@ -315,7 +315,7 @@ Config.Items = {
             info = {},
             type = "item",
             slot = 11,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {0, 1, 2, 3, 4, 5, 6, 7, 8}
         },
         [12] = {
             name = "weapon_flashlight",
@@ -324,7 +324,7 @@ Config.Items = {
             info = {},
             type = "weapon",
             slot = 12,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {1, 2, 3, 4, 5, 6, 7, 8}
         },
         [13] = {
             name = "empty_evidence_bag",
@@ -333,7 +333,7 @@ Config.Items = {
             info = {},
             type = "item",
             slot = 13,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {3, 4, 5, 6, 7, 8}
         },
         [14] = {
             name = "police_stormram",
@@ -342,7 +342,7 @@ Config.Items = {
             info = {},
             type = "item",
             slot = 14,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {6, 7, 8}
         },
         [15] = {
             name = "armor",
@@ -351,7 +351,7 @@ Config.Items = {
             info = {},
             type = "item",
             slot = 15,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {0, 1, 2, 3, 4, 5, 6, 7, 8}
         },
         [16] = {
             name = "radio",
@@ -360,7 +360,7 @@ Config.Items = {
             info = {},
             type = "item",
             slot = 16,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {0, 1, 2, 3, 4, 5, 6, 7, 8}
         },
         [17] = {
             name = "heavyarmor",
@@ -369,7 +369,7 @@ Config.Items = {
             info = {},
             type = "item",
             slot = 17,
-            authorizedJobGrades = {0, 1, 2, 3, 4}
+            authorizedJobGrades = {0, 1, 2, 3, 4, 5, 6, 7, 8}
         }
     }
 }

@@ -4018,6 +4018,62 @@ QBShared.Vehicles = {
 		['hash'] = `warrener2`,
 		['shop'] = 'pdm',
 	},
+	-- Police Vehicles
+	['valor5rb'] = {
+		['name'] = 'Ford Crown Victoria PD Interceptor',
+		['brand'] = 'Ford',
+		['model'] = 'valor5rb',
+		['price'] = 5500,
+		['category'] = 'govpd',
+		['hash'] = `GetHashKey("valor5rb")`,
+		['shop'] = 'pdmotorpool',
+	},
+	['valor8rb'] = {
+		['name'] = 'Chevy Tahoe PD Interceptor',
+		['brand'] = 'Chevy',
+		['model'] = 'valor8rb',
+		['price'] = 11500,
+		['category'] = 'govpd',
+		['hash'] = `GetHashKey("valor8rb")`,
+		['shop'] = 'pdmotorpool',
+	},
+	['valor12rb'] = {
+		['name'] = 'Ford Explorer PD Interceptor',
+		['brand'] = 'Ford',
+		['model'] = 'valor12rb',
+		['price'] = 12275,
+		['category'] = 'govpd',
+		['hash'] = `GetHashKey("valor12rb")`,
+		['shop'] = 'pdmotorpool',
+	},
+	['21yukadmin'] = {
+		['name'] = 'GMC Yukon Executive PD Interceptor',
+		['brand'] = 'GMC',
+		['model'] = '21yukadmin',
+		['price'] = 55150,
+		['category'] = 'govpd',
+		['hash'] = `GetHashKey("21yukadmin")`,
+		['shop'] = 'pdmotorpool',
+	},
+	['fbitahoe'] = {
+		['name'] = 'Chevy Tahoe Unmarked Interceptor',
+		['brand'] = 'GMC',
+		['model'] = 'fbitahoe',
+		['price'] = 27500,
+		['category'] = 'govpd',
+		['hash'] = `GetHashKey("fbitahoe")`,
+		['shop'] = 'pdmotorpool',
+	},
+	['cone'] = {
+		['name'] = 'Armored Limo',
+		['brand'] = 'Chevy',
+		['model'] = 'cone',
+		['price'] = 150000,
+		['category'] = 'govpd',
+		['hash'] = `GetHashKey("cone")`,
+		['shop'] = 'pdmotorpool',
+	},
+	-- Addon Vehicles
 	['20tahoeciv'] = {
 		['name'] = '2020 Chevy Tahoe Interceptor Edition',
 		['brand'] = 'Chevy',
@@ -4026,6 +4082,6 @@ QBShared.Vehicles = {
 		['category'] = 'suvs',
 		['hash'] = `GetHashKey("20tahoeciv")`,
 		['shop'] = 'luxury',
-  }
+  },
 
 }

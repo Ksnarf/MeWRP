@@ -153,6 +153,54 @@ Config.Shops = {
                 chosenVehicle = 'hexer'
             },
         }
+    },
+    ['pdmotorpool'] = {
+        ['Type'] = 'free-use', -- meaning a real player has to sell the car
+        ['Zone'] = {
+            ['Shape'] = {
+                vector2(-1260.6973876953, -349.21334838867),
+                vector2(-1268.6248779297, -352.87365722656),
+                vector2(-1274.1533203125, -358.29794311523),
+                vector2(-1273.8425292969, -362.73715209961),
+                vector2(-1270.5701904297, -368.6716003418),
+                vector2(-1266.0561523438, -375.14080810547),
+                vector2(-1244.3684082031, -362.70278930664),
+                vector2(-1249.8704833984, -352.03326416016),
+                vector2(-1252.9503173828, -345.85726928711)
+            },
+            ['minZ'] = 36.646457672119,
+            ['maxZ'] = 37.516143798828,
+            ['size'] = 2.75 -- size of the vehicles zones
+        },
+        ['Job'] = 'police', -- Name of job or none
+        ['ShopLabel'] = 'LSPD Motorpool ',
+        ['showBlip'] = true, -- true or false
+        ['blipSprite'] = 326, -- Blip sprite
+        ['blipColor'] = 3, -- Blip color
+        ['Categories'] = {
+            ['govpd'] = 'Police Department Vehicles',
+        },
+        ['TestDriveTimeLimit'] = 0.5,
+        ['Location'] = vector3(-1255.6, -361.16, 36.91),
+        ['ReturnLocation'] = vector3(-1231.46, -349.86, 37.33),
+        ['VehicleSpawn'] = vector4(422.59, -1014.8, 29.06, 89.10),
+        ['ShowroomVehicles'] = {
+            [1] = {
+                coords = vector4(471.97, -1088.97, 29.2, 90),
+                defaultVehicle = 'valor5rb',
+                chosenVehicle = 'valor5rb'
+            },
+            [2] = {
+                coords = vector4(471.97, -1092.47, 29.2, 90),
+                defaultVehicle = 'valor8rb',
+                chosenVehicle = 'valor8rb'
+            },
+            [3] = {
+                coords = vector4(471.97, -1095.78, 29.2, 90),
+                defaultVehicle = 'valor12rb',
+                chosenVehicle = 'valor12rb'
+            },
+        }
     }, -- Add your next table under this comma
     ['boats'] = {
         ['Type'] = 'free-use', -- no player interaction is required to purchase a vehicle

@@ -153,7 +153,44 @@ Config.Shops = {
                 chosenVehicle = 'hexer'
             },
         }
+    },
+    ['sandersmc'] = {
+        ['Type'] = 'free-use', -- meaning a real player has to sell the car
+        ['Zone'] = {
+            ['Shape'] = {
+              vector2(237.4825744629, -1165.4262695312),
+              vector2(235.57423400878, -1154.4498291016),
+              vector2(238.21621704102, -1152.9028320312),
+              vector2(240.19371032714, -1150.6397705078),
+              vector2(240.65119934082, -1146.7977294922),
+              vector2(268.67349243164, -1146.6474609375),
+              vector2(268.63076782226, -1165.5838623046)
+            },
+            ['minZ'] = 29.12933540344,
+            ['maxZ'] = 29.29413986206,
+            ['size'] = 2 -- size of the vehicles zones
+        },
+        ['Job'] = 'cardealer', -- Name of job or none
+        ['ShopLabel'] = 'Sanders Motorcycles',
+        ['showBlip'] = true, -- true or false
+        ['blipSprite'] = 326, -- Blip sprite
+        ['blipColor'] = 3, -- Blip color
+        ['Categories'] = {
+            ['motorcycles'] = 'Motorcycles'
+        },
+        ['TestDriveTimeLimit'] = 0.5,
+        ['Location'] = vector3(-1255.6, -361.16, 36.91),
+        ['ReturnLocation'] = vector3(-1231.46, -349.86, 37.33),
+        ['VehicleSpawn'] = vector4(-1231.46, -349.86, 37.33, 26.61),
+        ['ShowroomVehicles'] = {
+            [1] = {
+                coords = vector4(243.99, -1150.71, 28.73, 141.2),
+                defaultVehicle = 'vader',
+                chosenVehicle = 'vader'
+            },
+        }
     }, -- Add your next table under this comma
+ -- Add your next table under this comma
     ['boats'] = {
         ['Type'] = 'free-use', -- no player interaction is required to purchase a vehicle
         ['Zone'] = {

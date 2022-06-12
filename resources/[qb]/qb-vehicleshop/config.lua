@@ -203,6 +203,43 @@ Config.Shops = {
                 chosenVehicle = 'valor12rb'
             },
         }
+    },
+    ['sandersmc'] = {
+        ['Type'] = 'free-use', -- no player interaction is required to purchase a car
+        ['Zone'] = {
+            ['Shape'] = {--polygon that surrounds the shop
+              vector2(237.4825744629, -1165.4262695312),
+              vector2(235.57423400878, -1154.4498291016),
+              vector2(238.21621704102, -1152.9028320312),
+              vector2(240.19371032714, -1150.6397705078),
+              vector2(240.65119934082, -1146.7977294922),
+              vector2(268.67349243164, -1146.6474609375),
+              vector2(268.63076782226, -1165.5838623046)
+            },
+            ['minZ'] = 29.1, -- min height of the shop zone
+            ['maxZ'] = 29.3, -- max height of the shop zone
+            ['size'] = 2.75 -- size of the vehicles zones
+        },
+        ['Job'] = 'none', -- Name of job or none
+        ['ShopLabel'] = 'Sanders Motorcycle Shop', -- Blip name
+        ['showBlip'] = true, -- true or false
+        ['blipSprite'] = 326, -- Blip sprite
+        ['blipColor'] = 3, -- Blip color
+        ['Categories'] = {-- Categories available to browse
+            ['motorcycles'] = 'Motorcycles',
+        },
+        ['TestDriveTimeLimit'] = 0.5, -- Time in minutes until the vehicle gets deleted
+        ['Location'] = vector3(238.49, -1157.69, 28.8), -- Blip Location
+        ['ReturnLocation'] = vector3(-44.74, -1082.58, 26.68), -- Location to return vehicle, only enables if the vehicleshop has a job owned
+        ['VehicleSpawn'] = vector4(238.49, -1157.69, 28.8, 98), -- Spawn location when vehicle is bought
+        ['TestDriveSpawn'] = vector4(238.49, -1157.69, 28.8, 98), -- Spawn location for test drive
+        ['ShowroomVehicles'] = {
+            [1] = {
+                coords = vector4(243.86, -1149.23, 29.22, 150), -- where the vehicle will spawn on display
+                defaultVehicle = 'vader', -- Default display vehicle
+                chosenVehicle = 'vader', -- Same as default but is dynamically changed when swapping vehicles
+            }
+        },
     }, -- Add your next table under this comma
     ['boats'] = {
         ['Type'] = 'free-use', -- no player interaction is required to purchase a vehicle

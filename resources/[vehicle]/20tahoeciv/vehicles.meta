@@ -16,7 +16,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>baller</audioNameHash>
+      <audioNameHash>CAMPER</audioNameHash>
       <layout>LAYOUT_RANGER</layout>
       <coverBoundOffsets>GRANGER_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -92,7 +92,7 @@
       <frequency value="100" />
       <swankness>SWANKNESS_1</swankness>
       <maxNum value="999" />
-      <flags>FLAG_HAS_LIVERY FLAG_EXTRAS_STRONG</flags>
+      <flags>FLAG_EXTRAS_STRONG</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 	  <dashboardType>VDT_RACE</dashboardType>

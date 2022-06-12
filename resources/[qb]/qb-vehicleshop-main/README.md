@@ -57,6 +57,11 @@
 
 **[PolyZone](https://github.com/qbcore-framework/PolyZone)**
 
+* You need to create new PolyZones if you want to create a new dealership or move default locations to another area. After you create the new PolyZones, add them to the Config.Shops > [Shape]
+
+* Here's a Wiki on how to create new PolyZone:
+https://github.com/mkafrin/PolyZone/wiki/Using-the-creation-script
+
 **[qb-menu](https://github.com/qbcore-framework/qb-menu)**
 
 **[qb-input](https://github.com/qbcore-framework/qb-input)**

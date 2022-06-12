@@ -170,7 +170,7 @@ Config.Shops = {
             ['maxZ'] = 29.29413986206,
             ['size'] = 2 -- size of the vehicles zones
         },
-        ['Job'] = 'cardealer', -- Name of job or none
+        ['Job'] = 'none', -- Name of job or none
         ['ShopLabel'] = 'Sanders Motorcycles',
         ['showBlip'] = true, -- true or false
         ['blipSprite'] = 326, -- Blip sprite

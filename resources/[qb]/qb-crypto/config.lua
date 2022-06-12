@@ -1,17 +1,18 @@
 Crypto = {
 
     History = {
-        ["qbit"] = {}
+        ["qbit"] = {},
         ["Kbit"] = {}
     },
 
     Worth = {
-        ["qbit"] = 0
+        ["qbit"] = 0,
         ["Kbit"] = 2
     },
 
     Labels = {
-        ["qbit"] = "Qbit"
+        ["qbit"] = "Qbit",
+        ["Kbit"] = "KiloBit"
     },
 
     Exchange = {

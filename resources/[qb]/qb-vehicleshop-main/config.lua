@@ -179,14 +179,24 @@ Config.Shops = {
             ['motorcycles'] = 'Motorcycles'
         },
         ['TestDriveTimeLimit'] = 0.5,
-        ['Location'] = vector3(-1255.6, -361.16, 36.91),
+        ['Location'] = vector3(237.07, -1159.78, 29.31),
         ['ReturnLocation'] = vector3(-1231.46, -349.86, 37.33),
-        ['VehicleSpawn'] = vector4(-1231.46, -349.86, 37.33, 26.61),
+        ['VehicleSpawn'] = vector4(238.87, -1156.77, 29.27, 100.1),
         ['ShowroomVehicles'] = {
             [1] = {
                 coords = vector4(243.99, -1150.71, 29.24, 141.2),
                 defaultVehicle = 'vader',
                 chosenVehicle = 'vader'
+            },
+            [2] = {
+                coords = vector4(246.83, -1149.25, 28.72, 180.4),
+                defaultVehicle = 'ratbike',
+                chosenVehicle = 'ratbike'
+            },
+            [3] = {
+                coords = vector4(250.1, -1149.25, 29.28, 180.4),
+                defaultVehicle = 'deathbike2',
+                chosenVehicle = 'deathbike2'
             },
         }
     }, -- Add your next table under this comma

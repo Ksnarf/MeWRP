@@ -5,10 +5,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>20tahoeciv</modelName>
-      <txdName>20tahoeciv</txdName>
-      <handlingId>TAHOE</handlingId>
-      <gameName>Tahoe SSV</gameName>
+      <modelName>ikx3hemi9</modelName>
+      <txdName>ikx3hemi9</txdName>
+      <handlingId>ikx3hemi9</handlingId>
+      <gameName>ikx3hemi9 SSV</gameName>
       <vehicleMakeName>Chevrolet</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>

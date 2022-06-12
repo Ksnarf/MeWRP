@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>335brm</modelName>
-      <txdName>335brm</txdName>
-      <handlingId>335brm</handlingId>
-      <gameName>335brm</gameName>
+      <modelName>bell360</modelName>
+      <txdName>bell360</txdName>
+      <handlingId>bell360</handlingId>
+      <gameName>bell360</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>

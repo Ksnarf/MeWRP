@@ -4,10 +4,10 @@
 	<residentAnims />
 	<InitDatas>
     <Item>
-      <modelName>valor3rb</modelName>
-      <txdName>valor3rb</txdName>
-      <handlingId>valor3rb</handlingId>
-      <gameName>valor3rb</gameName>
+      <modelName>police3</modelName>
+      <txdName>police3</txdName>
+      <handlingId>police3</handlingId>
+      <gameName>police3</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -46,7 +46,7 @@
 			<Offset x="0.136000" y="0.156000" z="0.425000" />
 			<SeatIndex value="3" />
 		</Item>
-	  </FirstPersonMobilePhoneSeatIKOffset> 
+	  </FirstPersonMobilePhoneSeatIKOffset>
       <PovCameraOffset x="0.000000" y="-0.145000" z="0.645000" />
       <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
       <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
@@ -75,9 +75,9 @@
       <lodDistances content="float_array">
         500.000000
         500.000000
-        500.000000 
-        500.000000    
-        750.000000    
+        500.000000
+        500.000000
+        750.000000
         750.000000
       </lodDistances>
       <minSeatHeight value="0.839" />
@@ -135,6 +135,6 @@
     </Item>
 	</InitDatas>
 	<txdRelationships>
-   
+
 	</txdRelationships>
 </CVehicleModelInfo__InitDataList>

@@ -126,7 +126,7 @@
         <Item>VAN_BOXVILLE_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-    
+
 	<Item>
       <modelName>centurionlspd</modelName>
       <txdName>centurionlspd</txdName>
@@ -211,7 +211,7 @@
       <frequency value="10" />
       <swankness>SWANKNESS_5</swankness>
       <maxNum value="5" />
-      <flags>FLAG_USE_INTERIOR_RED_LIGHT FLAG_EXTRAS_RARE FLAG_HAS_BULLET_RESISTANT_GLASS FLAG_HAS_LIVERY FLAG_ALLOW_HATS_NO_ROOF FLAG_PEDS_CAN_STAND_ON_TOP FLAG_HAS_INCREASED_RAMMING_FORCE FLAG_HAS_CAPPED_EXPLOSION_DAMAGE FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_HAS_CAPPED_EXPLOSION_DAMAGE FLAG_DAMPEN_STICKBOMB_DAMAGE</flags>
+      <flags>FLAG_USE_INTERIOR_RED_LIGHT FLAG_EXTRAS_RARE FLAG_HAS_BULLET_RESISTANT_GLASS FLAG_HAS_LIVERY FLAG_ALLOW_HATS_NO_ROOF FLAG_BIG FLAG_DISABLE_THROUGH_WINDSCREEN FLAG_PEDS_CAN_STAND_ON_TOP FLAG_USE_HIGHER_DOOR_TORQUE FLAG_PREFER_ENTER_TURRET_AFTER_DRIVER FLAG_HAS_INCREASED_RAMMING_FORCE FLAG_HAS_CAPPED_EXPLOSION_DAMAGE FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_HAS_CAPPED_EXPLOSION_DAMAGE FLAG_DAMPEN_STICKBOMB_DAMAGE</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_REAR</plateType>
 	  <dashboardType>VDT_SPEEDO</dashboardType>
@@ -249,7 +249,7 @@
         <Item>VAN_BOXVILLE_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-    
+
 	<Item>
       <modelName>centurionlssd</modelName>
       <txdName>centurionlssd</txdName>
@@ -372,7 +372,7 @@
         <Item>VAN_BOXVILLE_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-  
+
 	<Item>
       <modelName>centurionfib</modelName>
       <txdName>centurionfib</txdName>
@@ -495,7 +495,7 @@
         <Item>VAN_BOXVILLE_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-  
+
 	<Item>
       <modelName>riot3</modelName>
       <txdName>riot3</txdName>
@@ -618,7 +618,7 @@
         <Item>VAN_BOXVILLE_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-   
+
   </InitDatas>
   <txdRelationships>
   	<Item>

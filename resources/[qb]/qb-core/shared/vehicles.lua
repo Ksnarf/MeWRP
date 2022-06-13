@@ -4091,6 +4091,15 @@ QBShared.Vehicles = {
 		['hash'] = `GetHashKey("pigeonp")`,
 		['shop'] = 'pdmotorpool',
 	},
+		['centurionlspd'] = {
+			['name'] = 'PD Armored Vehicled',
+			['brand'] = 'Centurion',
+			['model'] = 'centurionlspd',
+			['price'] = 250000,
+			['category'] = 'govpd',
+			['hash'] = `GetHashKey("centurionlspd")`,
+			['shop'] = 'pdmotorpool',
+	},
 	-- Addon Vehicles
 	['20tahoeciv'] = {
 		['name'] = '2020 Chevy Tahoe Interceptor Edition',

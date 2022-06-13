@@ -134,10 +134,13 @@ Config.AuthorizedVehicles = {
     ["valor8rb"] = "Marked Chevy Tahoe Interceptor",
     ["valor12rb"] = "Marked Ford Explorer Interceptor",
     ["21yukadmin"] = "Command Car",
+    ["centurionlspd"] = "Armored Truck",
   }
 }
 
-Config.WhitelistedVehicles = {}
+Config.WhitelistedVehicles = {
+ ["centurionlspd"] = "Armored Truck"
+}
 
 Config.AmmoLabels = { -- Labels for Weapon Ammo
     ["AMMO_PISTOL"] = "9x19mm parabellum bullet",

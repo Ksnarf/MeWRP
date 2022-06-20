@@ -60,7 +60,6 @@ Config.AuthorizedVehicles = {
 	-- Grade 1
 	[1] = {
 		["ambulance"] = "Ambulance",
-
 	},
 	-- Grade 2
 	[2] = {

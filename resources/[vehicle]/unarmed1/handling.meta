@@ -33,7 +33,7 @@
       <fSuspensionReboundDamp value="1.200000" />
       <fSuspensionUpperLimit value="0.250000" />
       <fSuspensionLowerLimit value="-0.120000" />
-      <fSuspensionRaise value="0.000000" />
+      <fSuspensionRaise value="0.200000" />
       <fSuspensionBiasFront value="0.500000" />
       <fAntiRollBarForce value="0.500000" />
       <fAntiRollBarBiasFront value="0.600000" />
@@ -43,8 +43,8 @@
       <fWeaponDamageMult value="0.300000" />
       <fDeformationDamageMult value="0.300000" />
       <fEngineDamageMult value="0.400000" />
-      <fPetrolTankVolume value="65.000000" />
-      <fOilVolume value="5.000000" />
+      <fPetrolTankVolume value="95.000000" />
+      <fOilVolume value="8.000000" />
       <fSeatOffsetDistX value="0.100000" />
       <fSeatOffsetDistY value="-0.200000" />
       <fSeatOffsetDistZ value="0.300000" />

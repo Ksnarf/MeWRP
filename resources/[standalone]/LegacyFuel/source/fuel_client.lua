@@ -258,10 +258,9 @@ CreateThread(function()
 		else
 			Wait(250)
 		end
-
 		Wait(0)
 	end
-end)
+end
 
 if Config.ShowNearestGasStationOnly then
 	CreateThread(function()

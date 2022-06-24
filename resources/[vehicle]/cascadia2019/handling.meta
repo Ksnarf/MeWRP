@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
 		<Item type="CHandlingData">
-      <handlingName>cone</handlingName>
+      <handlingName>cascadia2019</handlingName>
       <fMass value="7000.000000" />
       <fInitialDragCoeff value="8.500000" />
       <fPercentSubmerged value="85.000000" />
